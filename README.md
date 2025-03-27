@@ -8,6 +8,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0001-two-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
@@ -67,6 +69,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
