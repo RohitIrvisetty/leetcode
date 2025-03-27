@@ -12,6 +12,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -22,6 +23,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0001-two-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -63,8 +65,10 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
