@@ -14,6 +14,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
@@ -84,6 +85,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Divide and Conquer
