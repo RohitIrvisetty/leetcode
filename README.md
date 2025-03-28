@@ -127,6 +127,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -142,6 +143,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Divide and Conquer
@@ -271,6 +273,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0203-remove-linked-list-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -394,4 +397,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RohitIrvisetty/leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
