@@ -45,6 +45,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2048-build-array-from-permutation](https://github.com/RohitIrvisetty/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/RohitIrvisetty/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Union Find
 |  |
