@@ -27,6 +27,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
