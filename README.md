@@ -27,6 +27,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RohitIrvisetty/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
+| [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
