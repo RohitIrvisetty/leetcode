@@ -45,6 +45,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1241-decompress-run-length-encoded-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1580-shuffle-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -116,6 +117,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
