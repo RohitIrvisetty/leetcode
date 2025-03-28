@@ -21,6 +21,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -182,6 +183,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
