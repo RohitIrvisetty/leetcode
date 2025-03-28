@@ -44,6 +44,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1241-decompress-run-length-encoded-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1580-shuffle-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1580-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
