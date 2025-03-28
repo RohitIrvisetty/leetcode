@@ -17,7 +17,6 @@ class Solution:
             else:
                 count1 -= 1
                 count2 -= 1
-        print(elem1, elem2)
         if nums.count(elem1) > (n // 3):
             result.append(elem1)
         if elem2 is not None and elem1 != elem2 and nums.count(elem2) > (n // 3):
