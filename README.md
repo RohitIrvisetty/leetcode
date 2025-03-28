@@ -74,6 +74,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -286,6 +287,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0125-valid-palindrome](https://github.com/RohitIrvisetty/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RohitIrvisetty/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
