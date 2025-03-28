@@ -59,6 +59,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -88,6 +89,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
 ## Matrix
@@ -112,6 +114,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
@@ -152,6 +155,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -184,6 +188,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
