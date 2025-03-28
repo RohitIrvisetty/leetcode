@@ -51,6 +51,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0138-copy-list-with-random-pointer](https://github.com/RohitIrvisetty/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
@@ -199,6 +200,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -271,6 +273,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
@@ -315,4 +318,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
