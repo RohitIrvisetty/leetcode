@@ -84,6 +84,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0002-add-two-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -188,6 +189,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0206-reverse-linked-list) |
 ## String
