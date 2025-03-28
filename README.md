@@ -114,10 +114,12 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
