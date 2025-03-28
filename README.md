@@ -180,6 +180,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Design
 |  |
 | ------- |
