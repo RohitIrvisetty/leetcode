@@ -87,6 +87,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0344-reverse-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0344-reverse-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0344-reverse-string) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Stack
 |  |
