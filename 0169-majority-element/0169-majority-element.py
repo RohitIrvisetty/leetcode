@@ -12,7 +12,7 @@ class Solution:
                 count += 1
             else:
                 count -= 1
-        cont = 0
+        count = 0
         for i in range(n):
             if nums[i] == elem:
                 count += 1
