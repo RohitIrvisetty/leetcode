@@ -121,6 +121,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
