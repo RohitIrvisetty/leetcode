@@ -29,6 +29,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RohitIrvisetty/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Counting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0011-container-with-most-water) |
+| [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
