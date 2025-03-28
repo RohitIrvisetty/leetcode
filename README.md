@@ -197,6 +197,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/RohitIrvisetty/leetcode/tree/master/0058-length-of-last-word) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
