@@ -10,6 +10,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0011-container-with-most-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -82,6 +83,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -105,6 +107,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
