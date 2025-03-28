@@ -12,6 +12,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/RohitIrvisetty/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RohitIrvisetty/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -59,6 +60,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/RohitIrvisetty/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
@@ -119,6 +121,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/RohitIrvisetty/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
