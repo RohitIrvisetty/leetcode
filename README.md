@@ -58,6 +58,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0015-3sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -157,6 +158,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
