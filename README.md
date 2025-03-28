@@ -120,6 +120,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0058-length-of-last-word](https://github.com/RohitIrvisetty/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/RohitIrvisetty/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0344-reverse-string) |
+| [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
@@ -320,6 +322,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
 |  |
 | ------- |
