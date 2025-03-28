@@ -41,6 +41,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
@@ -57,6 +58,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -149,6 +151,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0021-merge-two-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
