@@ -142,6 +142,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RohitIrvisetty/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -169,6 +170,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/RohitIrvisetty/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
@@ -195,6 +197,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,9 +254,11 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
