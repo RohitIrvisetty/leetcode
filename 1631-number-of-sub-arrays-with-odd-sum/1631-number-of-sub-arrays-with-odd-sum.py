@@ -7,8 +7,7 @@ class Solution:
         ans = 0
         for num in arr:
             vk+=num
-            vk%=2
-            if vk==1:
+            if vk%2 == 1:
                 odd += 1
                 ans += 1 + even
             else:
