@@ -37,6 +37,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0485-max-consecutive-ones](https://github.com/RohitIrvisetty/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
