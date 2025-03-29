@@ -144,6 +144,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/RohitIrvisetty/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -311,6 +312,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0143-reorder-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RohitIrvisetty/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -373,6 +375,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/RohitIrvisetty/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
