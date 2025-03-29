@@ -23,6 +23,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/RohitIrvisetty/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -258,6 +259,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/RohitIrvisetty/leetcode/tree/master/0135-candy) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
