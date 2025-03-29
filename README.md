@@ -144,6 +144,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
@@ -190,6 +191,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/RohitIrvisetty/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -320,6 +322,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0344-reverse-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
