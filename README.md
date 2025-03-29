@@ -28,6 +28,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
@@ -118,6 +119,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0143-reorder-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +146,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RohitIrvisetty/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
