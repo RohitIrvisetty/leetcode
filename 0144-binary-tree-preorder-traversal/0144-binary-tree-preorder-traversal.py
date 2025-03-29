@@ -7,19 +7,11 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         res = []
-        stack = []
-        if root is None:
-            return []
-        stack.append(root)
-        while stack:
-
-            node = stack.pop()
-            res.append(node.val)
-
-            if node.right:
-                stack.append(node.right)
-            
-            if node.left:
-                stack.append(node.left)
-
+        self.helper(root, res)
         return res
+
+    def helper(self, root, res):
+        if root is not None:
+            res.append(root.val)
+            self.helper(root.left, res)
+            self.helper(root.right, res)
