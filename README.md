@@ -84,6 +84,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
@@ -231,6 +232,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -314,6 +316,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0125-valid-palindrome](https://github.com/RohitIrvisetty/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RohitIrvisetty/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -440,4 +443,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
