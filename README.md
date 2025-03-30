@@ -404,6 +404,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
@@ -414,6 +415,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/RohitIrvisetty/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
@@ -463,6 +465,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -472,6 +475,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
