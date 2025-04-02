@@ -98,6 +98,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0146-lru-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
@@ -139,6 +140,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -167,6 +169,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RohitIrvisetty/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RohitIrvisetty/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
