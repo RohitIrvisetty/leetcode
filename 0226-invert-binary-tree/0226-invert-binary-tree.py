@@ -9,13 +9,11 @@ class Solution:
         if root is None:
             return None
         
-        node = TreeNode(root.val)
+        # Swap left and right subtrees
+        root.left, root.right = root.right, root.left
 
-        if root.left:
-            node.right = self.invertTree(root.left)
-        
-        if root.right:
-            node.left = self.invertTree(root.right)
-        
-        return node
-        
+        # Recursively invert left and right subtrees
+        self.invertTree(root.left)
+        self.invertTree(root.right)
+
+        return root
