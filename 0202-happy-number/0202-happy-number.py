@@ -3,7 +3,6 @@ class Solution:
         if n == 1:
             return True
         
-
         def get_next(number):
             return sum(int(digit) ** 2 for digit in str(number))
         
