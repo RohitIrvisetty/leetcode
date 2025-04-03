@@ -393,6 +393,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -528,6 +529,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
 |  |
