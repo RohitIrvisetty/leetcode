@@ -3,6 +3,5 @@ class Solution:
         if len(s) != len(goal):
             return False
         
-        double_string = s + s
-        return double_string.find(goal) != -1
+        return (s + s).find(goal) != -1
         
