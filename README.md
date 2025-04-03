@@ -188,6 +188,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1585-the-kth-factor-of-n](https://github.com/RohitIrvisetty/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/RohitIrvisetty/leetcode/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -325,6 +326,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0402-remove-k-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0402-remove-k-digits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
@@ -398,6 +400,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
