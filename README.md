@@ -295,6 +295,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -410,6 +411,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -509,6 +511,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -523,6 +526,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
