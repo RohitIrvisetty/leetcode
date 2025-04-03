@@ -1,12 +1,25 @@
 class Solution:
-    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        self.res = []
-        
-        self.helper(root)
-        return self.res
+    def preorderTraversal(self, root: TreeNode) -> List[int]:
+        res = []
+        curr = root
 
-    def helper(self, root):
-        if root is not None:
-            self.res.append(root.val)
-            self.helper(root.left)
-            self.helper(root.right)
+        while curr is not None:
+            if curr.left is None:
+                res.append(curr.val)
+                curr = curr.right  # move to next right node
+            else:
+                pre = curr.left
+                while pre.right is not None and pre.right != curr:  # find rightmost
+                    pre = pre.right
+
+                if pre.right is None:
+                    # establish a link back to the current node
+                    res.append(curr.val)
+                    pre.right = curr
+                    curr = curr.left
+                else:
+                    # restore the tree structure
+                    pre.right = None
+                    curr = curr.right
+
+        return res
