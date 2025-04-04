@@ -55,6 +55,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
@@ -458,6 +459,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0367-valid-perfect-square](https://github.com/RohitIrvisetty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
