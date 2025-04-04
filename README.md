@@ -72,6 +72,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitIrvisetty/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -461,6 +462,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitIrvisetty/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
