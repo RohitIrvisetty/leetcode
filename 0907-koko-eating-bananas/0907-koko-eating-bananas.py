@@ -13,7 +13,7 @@ class Solution:
             # Iterate over the piles and calculate hour_spent.
             # We increase the hour_spent by ceil(pile / middle)
             for pile in piles:
-                hour_spent += math.ceil(pile / middle)
+                hour_spent += (pile + middle -1) // middle
             
             # Check if middle is a workable speed, and cut the search space by half.
             if hour_spent <= h:
