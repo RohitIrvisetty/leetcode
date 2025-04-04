@@ -195,6 +195,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/RohitIrvisetty/leetcode/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -384,6 +385,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0326-power-of-three](https://github.com/RohitIrvisetty/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RohitIrvisetty/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
