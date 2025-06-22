@@ -13,7 +13,7 @@ class Solution:
 
             row = mid // n
             column = mid % n
-
+            print(mid, row, column)
             if matrix[row][column] == target:
                 return True
             elif matrix[row][column] < target:
@@ -22,4 +22,3 @@ class Solution:
                 right = mid - 1
             
         return False
-        
