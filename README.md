@@ -36,6 +36,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0162-find-peak-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/RohitIrvisetty/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
@@ -208,6 +209,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/RohitIrvisetty/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
