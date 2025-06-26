@@ -611,4 +611,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/RohitIrvisetty/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
