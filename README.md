@@ -622,5 +622,6 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/RohitIrvisetty/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/RohitIrvisetty/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
