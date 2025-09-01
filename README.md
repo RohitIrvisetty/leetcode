@@ -182,6 +182,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RohitIrvisetty/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/RohitIrvisetty/leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RohitIrvisetty/leetcode/tree/master/0231-power-of-two) |
@@ -497,6 +498,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RohitIrvisetty/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/RohitIrvisetty/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0191-number-of-1-bits) |
@@ -547,6 +549,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0039-combination-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/RohitIrvisetty/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/RohitIrvisetty/leetcode/tree/master/0089-gray-code) |
 ## Tree
 |  |
 | ------- |
