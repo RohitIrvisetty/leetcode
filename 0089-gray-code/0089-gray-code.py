@@ -1,7 +1,6 @@
 class Solution:
     def grayCode(self, n: int):
         result = [0]
-        # there are 2 ^ n numbers in the Gray code sequence.
         for i in range (1, n+1):
             prev = len(result)
             mask = 1 << (i - 1)
