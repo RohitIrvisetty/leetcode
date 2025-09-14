@@ -16,6 +16,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RohitIrvisetty/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
@@ -141,6 +142,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohitIrvisetty/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RohitIrvisetty/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -215,6 +217,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -444,6 +447,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0143-reorder-list) |
@@ -635,6 +639,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/RohitIrvisetty/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
