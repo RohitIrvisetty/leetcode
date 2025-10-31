@@ -186,6 +186,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RohitIrvisetty/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/RohitIrvisetty/leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
@@ -261,6 +262,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
@@ -426,6 +428,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RohitIrvisetty/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RohitIrvisetty/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RohitIrvisetty/leetcode/tree/master/0242-valid-anagram) |
@@ -510,6 +513,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RohitIrvisetty/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/RohitIrvisetty/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
