@@ -98,6 +98,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2812-find-the-maximum-achievable-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
