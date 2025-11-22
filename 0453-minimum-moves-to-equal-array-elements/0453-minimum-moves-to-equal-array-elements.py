@@ -1,10 +1,9 @@
 class Solution:
     def minMoves(self, nums):
-        nums.sort()
-        min = nums[0]
+        mn = min(nums)
         result = 0
         for num in nums:
-            result += num - min
+            result += num - mn
         return result
 
         
