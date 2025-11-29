@@ -1,8 +1,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         obj = {}
-        for i, j in enumerate(nums):
-            if j in obj:
-                return [i, obj[j]]
-            obj[target - j] = i
-        
+        for i, num in enumerate(nums):
+            if num in obj:
+                return [obj[num], i]
+            obj[target-num] = i
