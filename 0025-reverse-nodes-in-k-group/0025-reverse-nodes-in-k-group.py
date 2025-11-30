@@ -17,8 +17,7 @@ class Solution:
             while n > 1 and nodesLessthanK:
                 curr = curr.next
                 n -= 1
-            if curr is None:
-                break
+            
         return dummy.next
 
 
