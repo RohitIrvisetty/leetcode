@@ -554,6 +554,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0461-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0461-hamming-distance) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Design
 |  |
