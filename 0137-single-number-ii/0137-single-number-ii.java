@@ -1,17 +1,21 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Set<Long> numsSet = new HashSet<>();
-        long sumNums = 0;
-        for (int num : nums) {
-            numsSet.add((long) num);
-            sumNums += num;
-        }
+        int result = 0;
 
-        long sumSet = 0;
-        for (long num : numsSet) {
-            sumSet += num;
-        }
+        for (int i = 0; i < 32; i++) {
+            int sum = 0;
 
-        return (int) ((3 * sumSet - sumNums) / 2);
+            for (int num: nums) {
+                if(((num >> i) & 1) == 1) {
+                    sum += 1;
+                }
+             }
+             
+             if(sum % 3 != 0) {
+                result = result | (1 << i);
+             }
+
+        }
+        return result;
     }
 }
