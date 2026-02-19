@@ -1,18 +1,18 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
+        int subSetsCount = 1 << nums.length;
         List<List<Integer>> result = new ArrayList<>();
-        int n = nums.length;
-        int total = 1 << n;
 
-        for (int i = 0; i < total; i++) {
-            List<Integer> subset = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < subSetsCount; i++) {
+            List<Integer> subSet = new ArrayList<>();
+            for (int j = 0; j < nums.length; j++) {
                 if ((i & (1 << j)) != 0) {
-                    subset.add(nums[j]);
+                    subSet.add(nums[j]);
                 }
             }
-            result.add(subset);
+            result.add(subSet);
         }
         return result;
+        
     }
 }
