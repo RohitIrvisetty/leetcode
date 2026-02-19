@@ -182,6 +182,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -421,6 +422,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
