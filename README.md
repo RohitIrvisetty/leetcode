@@ -221,6 +221,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0507-perfect-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RohitIrvisetty/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -559,6 +560,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0342-power-of-four](https://github.com/RohitIrvisetty/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0461-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RohitIrvisetty/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
