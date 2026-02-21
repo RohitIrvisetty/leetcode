@@ -1,17 +1,21 @@
 class Solution {
     public double myPow(double x, int n) {
-       return findPow(x, (long) n);
+        long N = n;
+        if (N < 0) {
+            return 1 / power(x, -N);
+        }
+        return power(x, N);
     }
 
-    public double findPow(double x, long n) {
-        if (n == 0) {
-            return 1;
-        } else if (n < 0) {
-            return 1 / findPow(x, -1 * n);
-        } else if (n % 2 == 0) {
-            return findPow(x * x, n / 2);
+    private double power(double x, long n) {
+        if (n == 0) return 1;
+
+        double half = power(x, n / 2);
+
+        if (n % 2 == 0) {
+            return half * half;
         } else {
-            return x * findPow(x * x, (n - 1) / 2);
+            return half * half * x;
         }
     }
 }
