@@ -9,19 +9,20 @@
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-
-        ListNode current = head;
-        
-
-        while (current != null) {
-            ListNode nextNode = current.next;
-            current.next = prev;
-            //prev.next = None;
-            prev = current;
-            current = nextNode;
+    private ListNode linkedListHelper(ListNode head, ListNode prev) {
+        ListNode next = head.next;
+        head.next = prev;
+        prev = head;
+        if(next == null) {
+            return head;
         }
-        return prev;
+        head = next;
+        return linkedListHelper(head, prev);
     }
+
+    public ListNode reverseList(ListNode head) {
+        if (head == null) return head;
+        return linkedListHelper(head, null);
+    }
+
 }
