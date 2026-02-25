@@ -59,6 +59,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohitIrvisetty/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -218,6 +219,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -560,6 +562,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0342-power-of-four](https://github.com/RohitIrvisetty/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RohitIrvisetty/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
