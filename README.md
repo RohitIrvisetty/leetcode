@@ -238,6 +238,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/2050-count-good-numbers) |
+| [2119-a-number-after-a-double-reversal](https://github.com/RohitIrvisetty/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/RohitIrvisetty/leetcode/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
