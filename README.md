@@ -244,6 +244,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
+| [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
