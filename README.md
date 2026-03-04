@@ -223,6 +223,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0367-valid-perfect-square](https://github.com/RohitIrvisetty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -482,6 +483,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0468-validate-ip-address](https://github.com/RohitIrvisetty/leetcode/tree/master/0468-validate-ip-address) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -580,6 +582,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0338-counting-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/RohitIrvisetty/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
