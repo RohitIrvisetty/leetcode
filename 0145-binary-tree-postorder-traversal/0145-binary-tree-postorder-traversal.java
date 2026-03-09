@@ -18,22 +18,25 @@ class Solution {
 
     public List<Integer> postorderTraversal(TreeNode root) {
         LinkedList<Integer> res = new LinkedList<>();
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode curr = root;
+        Stack<TreeNode> stack1 = new Stack<>();
+        Stack<TreeNode> stack2 = new Stack<>();
+        if (root == null) return res;
+
+        stack1.push(root);
         
-        while (curr != null || stack.size() != 0) {
-
-            while (curr != null) {
-                res.addFirst(curr.val);
-                stack.push(curr);
-                curr = curr.right;
+        while (stack1.size() != 0) {
+            TreeNode node = stack1.pop();
+            stack2.push(node);
+            if (node.left != null) {
+                stack1.push(node.left);
             }
-
-            curr = stack.pop();
-            curr = curr.left;
+            if (node.right != null) {
+                stack1.push(node.right);
+            }
         }
-
-
+        while (stack2.size() != 0) {
+            res.add(stack2.pop().val);
+        }
         return res;
     }
 }
