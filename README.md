@@ -663,6 +663,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
+| [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -684,6 +685,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
+| [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -746,6 +748,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Database
 |  |
 | ------- |
