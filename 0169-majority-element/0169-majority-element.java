@@ -2,11 +2,12 @@ class Solution {
     public int majorityElement(int[] nums) {
         int count = 0, ele = 0;
         for (int num: nums) {
-            if (count == 0) {
+            if (num == ele) {
+                count += 1;
+            }
+            else if (count == 0) {
                 count += 1;
                 ele = num;
-            } else if (num == ele) {
-                count += 1;
             } else {
                 count -= 1;
             }
