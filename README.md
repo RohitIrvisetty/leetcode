@@ -777,4 +777,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RohitIrvisetty/leetcode/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
