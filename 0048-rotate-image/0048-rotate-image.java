@@ -1,0 +1,34 @@
+class Solution {
+    private void swap(int[][] matrix, int i, int j) {
+        if (i == j) return;
+        matrix[i][j] = matrix[i][j] ^ matrix[j][i];
+        matrix[j][i] = matrix[i][j] ^ matrix[j][i];
+        matrix[i][j] = matrix[i][j] ^ matrix[j][i];
+    }
+
+    public void rotate(int[][] matrix) {
+        int n = matrix.length;
+
+        // Step 1: Transpose
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                swap(matrix, i, j);
+            }
+        }
+
+        // Step 2: Reverse each row
+        for (int i = 0; i < n; i++) {
+            int left = 0;
+            int right = n - 1;
+
+            while (left < right) {
+                int temp = matrix[i][left];
+                matrix[i][left] = matrix[i][right];
+                matrix[i][right] = temp;
+
+                left++;
+                right--;
+            }
+        }
+    }
+}
