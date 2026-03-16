@@ -616,6 +616,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0338-counting-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/RohitIrvisetty/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/RohitIrvisetty/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
@@ -668,6 +669,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0039-combination-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/RohitIrvisetty/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/RohitIrvisetty/leetcode/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/RohitIrvisetty/leetcode/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
