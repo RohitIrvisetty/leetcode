@@ -73,6 +73,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
+| [0885-spiral-matrix-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -310,6 +311,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
+| [0885-spiral-matrix-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -324,6 +326,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
+| [0885-spiral-matrix-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/RohitIrvisetty/leetcode/tree/master/2048-build-array-from-permutation) |
