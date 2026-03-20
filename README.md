@@ -247,6 +247,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
+| [0504-base-7](https://github.com/RohitIrvisetty/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -530,6 +531,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0468-validate-ip-address](https://github.com/RohitIrvisetty/leetcode/tree/master/0468-validate-ip-address) |
+| [0504-base-7](https://github.com/RohitIrvisetty/leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0812-rotate-string) |
