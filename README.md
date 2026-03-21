@@ -121,6 +121,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2149-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
 | ------- |
