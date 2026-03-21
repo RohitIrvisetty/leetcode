@@ -1,52 +1,46 @@
 class Solution {
-    private void mergeSort(int[] nums, int left, int right) {
-        if (left >= right) return;
-        int mid = (left + right) / 2;
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
-        merge(nums, left, mid, right);
-    }
-
-    private void merge(int[] nums, int left, int mid, int right) {
-        int n1 = mid - left + 1;
-        int n2 = right - mid;
-
-        int[] L = new int[n1];
-        int[] R = new int[n2];
-
-        for (int i = 0; i < n1; i++) {
-            L[i] = nums[left + i];
-        }
-
-        for (int i = 0; i < n2; i++) {
-            R[i] = nums[mid + i + 1];
-        }
-
-        int i = 0, j = 0, k = left;
-
-        while (i < n1 && j < n2) {
-            if (L[i] < R[j]) {
-                nums[k++] = L[i++];
-            } else {
-                nums[k++] = R[j++];
-            }
-        }
-
-        while (i < n1) {
-            nums[k++] = L[i++];
-        }
-
-        while (j < n2) {
-            nums[k++] = R[j++];
-        }
-
-    }
-    
-    
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
-        return nums;
+        return heapSort(nums);
     }
 
+    private int[] heapSort(int[] nums) {
+        int heapSize = nums.length;
+        for (int i = (heapSize / 2) - 1; i >= 0; i--) {
+            heapify(nums, heapSize, i);
+        }
 
+        for (int i = heapSize - 1; i >= 0; i--) {
+            int temp = nums[0];
+            nums[0] = nums[i];
+            nums[i] = temp;
+            heapify(nums, i, 0);
+        }
+        return nums;
+     }
+
+     private void heapify(int[] nums, int heapSize, int idx) {
+        int largest = idx;
+        int leftNode = 2 * idx + 1;
+        int rightNode = 2 * idx + 2;
+
+        if (leftNode < heapSize && nums[leftNode] > nums[largest]) {
+            largest = leftNode;
+        } 
+
+        if (rightNode < heapSize && nums[rightNode] > nums[largest]) {
+            largest = rightNode;
+        }
+
+        if (largest != idx) {
+            swap(nums, largest, idx);
+            heapify(nums, heapSize, largest);
+        }
+     }
+
+     private void swap(int[] nums, int i, int j) {
+        if (i == j) return;
+        nums[i] = nums[i] ^ nums[j];
+        nums[j] = nums[i] ^ nums[j];
+        nums[i] = nums[i] ^ nums[j];
+     }
 }
