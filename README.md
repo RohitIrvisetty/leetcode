@@ -74,6 +74,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -620,6 +621,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0483-smallest-good-base](https://github.com/RohitIrvisetty/leetcode/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
