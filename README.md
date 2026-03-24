@@ -119,6 +119,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [2917-find-the-k-or-of-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -221,6 +222,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 ## Math
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RohitIrvisetty/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
