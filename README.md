@@ -89,6 +89,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/RohitIrvisetty/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -630,6 +631,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitIrvisetty/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
