@@ -61,6 +61,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohitIrvisetty/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -156,6 +157,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RohitIrvisetty/leetcode/tree/master/0645-set-mismatch) |
