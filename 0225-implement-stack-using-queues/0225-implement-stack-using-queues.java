@@ -2,38 +2,31 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 class MyStack {
-    private Queue<Integer> q1;
-    private Queue<Integer> q2;
+    private Queue<Integer> queue;
 
     public MyStack() {
-        q1 = new LinkedList<>();
-        q2 = new LinkedList<>();
+        queue = new LinkedList<>();
     }
 
     public void push(int x) {
         // Step 1: push to q2
-        q2.offer(x);
+        int n = queue.size();
+        queue.offer(x);
 
-        // Step 2: move all elements from q1 to q2
-        while (!q1.isEmpty()) {
-            q2.offer(q1.poll());
+        for (int i = 0; i < n; i++) {
+            queue.offer(queue.poll());
         }
-
-        // Step 3: swap q1 and q2
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
     }
 
     public int pop() {
-        return q1.poll();
+        return queue.poll();
     }
 
     public int top() {
-        return q1.peek();
+        return queue.peek();
     }
 
     public boolean empty() {
-        return q1.isEmpty();
+        return queue.isEmpty();
     }
 }
