@@ -11,6 +11,7 @@ class MyQueue {
     }
     
     public int pop() {
+        
         while(!s1.isEmpty()) {
             s2.push(s1.pop());
         }
