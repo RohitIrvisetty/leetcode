@@ -578,6 +578,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0812-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RohitIrvisetty/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -615,6 +616,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0503-next-greater-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
