@@ -173,6 +173,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1319-unique-number-of-occurrences](https://github.com/RohitIrvisetty/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
@@ -431,6 +432,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Depth-First Search
@@ -584,6 +586,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RohitIrvisetty/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RohitIrvisetty/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
