@@ -288,6 +288,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RohitIrvisetty/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1837-sum-of-digits-in-base-k](https://github.com/RohitIrvisetty/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/2050-count-good-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RohitIrvisetty/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -552,6 +553,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0342-power-of-four](https://github.com/RohitIrvisetty/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
