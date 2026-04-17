@@ -13,30 +13,39 @@
  *     }
  * }
  */
-
 class Solution {
-
     public List<Integer> postorderTraversal(TreeNode root) {
-        LinkedList<Integer> res = new LinkedList<>();
-        Stack<TreeNode> stack1 = new Stack<>();
-        Stack<TreeNode> stack2 = new Stack<>();
-        if (root == null) return res;
+        List<Integer> result = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
 
-        stack1.push(root);
+        TreeNode curr = root;
+        while (curr != null || !stack.isEmpty()) {
+            while (curr != null) {
+                result.add(curr.val);
+                stack.push(curr);
+                curr = curr.right;
+            }
+
+            curr = stack.pop();
+            curr = curr.left;
+        }      
         
-        while (stack1.size() != 0) {
-            TreeNode node = stack1.pop();
-            stack2.push(node);
-            if (node.left != null) {
-                stack1.push(node.left);
-            }
-            if (node.right != null) {
-                stack1.push(node.right);
-            }
+        int left = 0, right = result.size() - 1;
+
+        while (left < right) {
+            swap(result, left, right);
+            left++;
+            right--;
         }
-        while (stack2.size() != 0) {
-            res.add(stack2.pop().val);
-        }
-        return res;
+
+        return result;
+    }
+
+    private void swap(List<Integer> nums, int left, int right) {
+        if (left == right) return;
+
+        nums.set(left, nums.get(left) ^ nums.get(right));
+        nums.set(right, nums.get(left) ^ nums.get(right));
+        nums.set(left, nums.get(left) ^ nums.get(right));
     }
 }
