@@ -6,9 +6,9 @@ class Solution {
             heapify(nums, i, nums.length);
         }
 
-        for (int i = 1; i < nums.length; i++) {
-            swap(nums, 0, nums.length - i);
-            heapify(nums, 0, nums.length - i);
+        for (int i = 0; i < nums.length; i++) {
+            swap(nums, 0, nums.length - i - 1);
+            heapify(nums, 0, nums.length - i - 1);
         }
         
         return nums;
