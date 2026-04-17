@@ -1,46 +1,44 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        return heapSort(nums);
+        int n = nums.length;
+
+        for (int i = n / 2 - 1; i >= 0; i--) {
+            heapify(nums, i, nums.length);
+        }
+
+        for (int i = 1; i < nums.length; i++) {
+            swap(nums, 0, nums.length - i);
+            heapify(nums, 0, nums.length - i);
+        }
+        
+        return nums;
     }
 
-    private int[] heapSort(int[] nums) {
-        int heapSize = nums.length;
-        for (int i = (heapSize / 2) - 1; i >= 0; i--) {
-            heapify(nums, heapSize, i);
+    private void heapify(int[] nums, int index, int length) {
+        int left = 2 * index + 1;
+        int right = 2 * index + 2;
+
+        int largest = index;
+
+        if (left < length && nums[left] > nums[largest]) {
+            largest = left;
         }
 
-        for (int i = heapSize - 1; i >= 0; i--) {
-            int temp = nums[0];
-            nums[0] = nums[i];
-            nums[i] = temp;
-            heapify(nums, i, 0);
-        }
-        return nums;
-     }
-
-     private void heapify(int[] nums, int heapSize, int idx) {
-        int largest = idx;
-        int leftNode = 2 * idx + 1;
-        int rightNode = 2 * idx + 2;
-
-        if (leftNode < heapSize && nums[leftNode] > nums[largest]) {
-            largest = leftNode;
-        } 
-
-        if (rightNode < heapSize && nums[rightNode] > nums[largest]) {
-            largest = rightNode;
+        if (right < length && nums[right] > nums[largest]) {
+            largest = right;
         }
 
-        if (largest != idx) {
-            swap(nums, largest, idx);
-            heapify(nums, heapSize, largest);
+        if (largest != index) {
+            swap(nums, largest, index);
+            heapify(nums, largest, length);
         }
-     }
+    }
 
-     private void swap(int[] nums, int i, int j) {
-        if (i == j) return;
-        nums[i] = nums[i] ^ nums[j];
-        nums[j] = nums[i] ^ nums[j];
-        nums[i] = nums[i] ^ nums[j];
-     }
+    private void swap(int[] nums, int left, int right) {
+        if (left == right) return;
+
+        nums[left] = nums[left] ^ nums[right];
+        nums[right] = nums[left] ^ nums[right];
+        nums[left] = nums[left] ^ nums[right];
+    }
 }
