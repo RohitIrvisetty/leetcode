@@ -300,6 +300,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RohitIrvisetty/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -827,6 +828,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/RohitIrvisetty/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RohitIrvisetty/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Doubly-Linked List
 |  |
 | ------- |
