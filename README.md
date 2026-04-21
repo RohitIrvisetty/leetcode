@@ -297,6 +297,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2119-a-number-after-a-double-reversal](https://github.com/RohitIrvisetty/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2383-add-two-integers](https://github.com/RohitIrvisetty/leetcode/tree/master/2383-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/RohitIrvisetty/leetcode/tree/master/2427-number-of-common-factors) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -835,6 +836,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0204-count-primes](https://github.com/RohitIrvisetty/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/RohitIrvisetty/leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2427-number-of-common-factors](https://github.com/RohitIrvisetty/leetcode/tree/master/2427-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RohitIrvisetty/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Doubly-Linked List
@@ -905,6 +907,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RohitIrvisetty/leetcode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/RohitIrvisetty/leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Union-Find
