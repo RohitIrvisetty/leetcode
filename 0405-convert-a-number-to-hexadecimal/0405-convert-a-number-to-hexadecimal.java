@@ -3,7 +3,7 @@ class Solution {
         if (num == 0) return "0";
 
         char[] hexMap = "0123456789abcdef".toCharArray();
-        int mask = 0xf;
+        int mask = 15;
         StringBuilder ans = new StringBuilder();
         
         while (num != 0) {
