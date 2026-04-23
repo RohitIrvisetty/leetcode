@@ -2,16 +2,16 @@ class Solution {
     public int maxDepth(String s) {
         int depth = 0;
         int maxDepth = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '(') {
+        
+        for (char ch: s.toCharArray()) {
+            if (ch == '(') {
                 depth++;
                 maxDepth = Math.max(maxDepth, depth);
-            } else if (s.charAt(i) == ')') {
+            } else if (ch == ')') {
                 depth--;
-            } else if (Character.isDigit(s.charAt(i))) {
-                maxDepth = Math.max(maxDepth, depth);
             }
         }
+
         return maxDepth;
     }
 }
