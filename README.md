@@ -100,6 +100,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitIrvisetty/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RohitIrvisetty/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1580-shuffle-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1580-shuffle-the-array) |
@@ -173,6 +174,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/RohitIrvisetty/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -286,6 +288,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1017-convert-to-base-2](https://github.com/RohitIrvisetty/leetcode/tree/master/1017-convert-to-base-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1585-the-kth-factor-of-n](https://github.com/RohitIrvisetty/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -441,6 +444,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
