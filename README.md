@@ -617,6 +617,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/RohitIrvisetty/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RohitIrvisetty/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
