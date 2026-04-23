@@ -1,6 +1,6 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        int maxInt = Integer.MIN_VALUE;
+        char maxChar = '\0';
         int repetitionCount = 1;
 
         for (int i = 1; i < num.length(); i++) {
@@ -11,21 +11,12 @@ class Solution {
             }
 
             if (repetitionCount == 3) {
-                System.out.println(Integer.parseInt(num.substring(i - 3 + 1, i + 1)));
-                maxInt = Math.max(maxInt, Integer.parseInt(num.substring(i - 3 + 1, i + 1)));
+                maxChar = (char) Math.max(maxChar, (char) num.charAt(i - 1));
             }
 
         }
 
-        if (maxInt == 0) {
-            return new String(new char[] {48, 48, 48});
-        }
-
-        if (maxInt > 0) {
-            return String.valueOf(maxInt);
-        }
-
-        return "";
+        return maxChar == '\0'? "": new String(new char[] {maxChar, maxChar, maxChar});
     }
 }
 
