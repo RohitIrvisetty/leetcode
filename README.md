@@ -185,6 +185,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -305,6 +306,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2383-add-two-integers](https://github.com/RohitIrvisetty/leetcode/tree/master/2383-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/RohitIrvisetty/leetcode/tree/master/2427-number-of-common-factors) |
+| [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -454,6 +456,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Depth-First Search
 |  |
@@ -625,6 +628,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2264-largest-3-same-digit-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
+| [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RohitIrvisetty/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
 ## Stack
@@ -930,4 +934,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
