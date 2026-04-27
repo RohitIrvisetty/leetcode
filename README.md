@@ -171,6 +171,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0451-sort-characters-by-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/RohitIrvisetty/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
@@ -224,6 +225,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0344-reverse-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -611,6 +613,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0468-validate-ip-address](https://github.com/RohitIrvisetty/leetcode/tree/master/0468-validate-ip-address) |
 | [0504-base-7](https://github.com/RohitIrvisetty/leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0812-rotate-string) |
@@ -928,6 +931,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohitIrvisetty/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0567-permutation-in-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RohitIrvisetty/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Enumeration
 |  |
