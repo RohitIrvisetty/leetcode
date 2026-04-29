@@ -523,6 +523,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0402-remove-k-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -631,6 +632,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -679,6 +681,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RohitIrvisetty/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
