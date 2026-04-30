@@ -651,6 +651,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RohitIrvisetty/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1970-sorting-the-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/RohitIrvisetty/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
