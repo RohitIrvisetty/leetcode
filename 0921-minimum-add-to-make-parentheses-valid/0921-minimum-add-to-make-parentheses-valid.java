@@ -7,10 +7,11 @@ class Solution {
             if (c == '(') {
                 open++;
             } else { // ')'
-                if (open > 0) {
-                    open--; // match
-                } else {
+                open--; // match
+
+                if (open < 0) {
                     insertions++; // need to insert '('
+                    open = 0;
                 }
             }
         }
