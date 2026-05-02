@@ -27,10 +27,10 @@ class Solution {
             return root;
         }
 
-        Node left = root;
+        Node leftMost = root;
 
-        while (left != null) {
-            Node curr = left;
+        while (leftMost != null) {
+            Node curr = leftMost;
 
             while (curr != null) {
 
@@ -44,7 +44,7 @@ class Solution {
 
                 curr = curr.next;
             }
-            left = left.left;
+            leftMost = leftMost.left;
         }
 
         return root;
