@@ -668,6 +668,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RohitIrvisetty/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/RohitIrvisetty/leetcode/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
