@@ -638,6 +638,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/RohitIrvisetty/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -691,6 +692,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0503-next-greater-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
