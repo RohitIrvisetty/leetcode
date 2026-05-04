@@ -535,6 +535,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1903-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RohitIrvisetty/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
@@ -660,6 +661,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1970-sorting-the-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/RohitIrvisetty/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -702,6 +704,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RohitIrvisetty/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Heap (Priority Queue)
