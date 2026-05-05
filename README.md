@@ -408,6 +408,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Union Find
 |  |
 | ------- |
@@ -672,6 +673,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RohitIrvisetty/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/RohitIrvisetty/leetcode/tree/master/3340-check-balanced-string) |
 ## Stack
