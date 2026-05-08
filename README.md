@@ -135,6 +135,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [2917-find-the-k-or-of-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -461,6 +462,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
 | ------- |
