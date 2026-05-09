@@ -131,6 +131,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2058-concatenation-of-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -200,6 +201,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1636-sort-array-by-increasing-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
@@ -499,6 +501,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -835,6 +838,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RohitIrvisetty/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
