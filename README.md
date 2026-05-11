@@ -143,6 +143,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RohitIrvisetty/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
@@ -430,6 +431,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Union Find
