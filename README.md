@@ -150,6 +150,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2917-find-the-k-or-of-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
