@@ -132,6 +132,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2058-concatenation-of-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitIrvisetty/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/RohitIrvisetty/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -491,6 +492,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RohitIrvisetty/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1970-sorting-the-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/1970-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/RohitIrvisetty/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
