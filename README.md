@@ -494,6 +494,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/RohitIrvisetty/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
@@ -781,6 +782,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0973-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
