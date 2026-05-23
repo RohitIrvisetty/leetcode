@@ -124,6 +124,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1861-rotating-the-box](https://github.com/RohitIrvisetty/leetcode/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RohitIrvisetty/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RohitIrvisetty/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -265,6 +266,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1861-rotating-the-box](https://github.com/RohitIrvisetty/leetcode/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RohitIrvisetty/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -414,6 +416,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/RohitIrvisetty/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RohitIrvisetty/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
