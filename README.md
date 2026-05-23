@@ -161,6 +161,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RohitIrvisetty/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RohitIrvisetty/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RohitIrvisetty/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RohitIrvisetty/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
 |  |
 | ------- |
@@ -599,6 +602,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RohitIrvisetty/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Linked List
 |  |
 | ------- |
