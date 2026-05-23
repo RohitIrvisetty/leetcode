@@ -26,8 +26,10 @@ class Solution {
             if (x < min1) {
                 min2 = min1;
                 min1 = x;
+                continue;
             } else if (x < min2) {
                 min2 = x;
+                continue;
             }
         }
 
@@ -41,16 +43,6 @@ class Solution {
         );
 
         long ans = M * bestAbsPair;
-
-        // // Keep original best triple if replacement unused
-        // if (nums.length >= 4) {
-        //     long original = Math.max(
-        //         max1 * max2 * max3,
-        //         min1 * min2 * max1
-        //     );
-
-        //     ans = Math.max(ans, original);
-        // }
 
         return ans;
     }
