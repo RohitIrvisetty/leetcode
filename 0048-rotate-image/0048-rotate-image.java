@@ -2,33 +2,18 @@ class Solution {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 
-        // process layer by layer
-        for (int layer = 0; layer < n / 2; layer++) {
-            int first = layer;
-            int last = n - 1 - layer;
+        int[][] result = new int[n][n];
 
-            for (int i = first; i < last; i++) {
-                int top = matrix[first][i];
-
-                int right = matrix[i][last];
-
-                int bottom = matrix[last][n - 1 - i];
-
-                int left = matrix[n - 1 - i][first];
-
-                // left -> top
-                matrix[first][i] = matrix[n - 1 - i][first];
-
-                // bottom -> left
-                matrix[n - 1 - i][first] = matrix[last][n - 1 - i];
-
-                // right -> bottom
-                matrix[last][n - 1 - i] = matrix[i][last];
-
-                // top -> right
-                matrix[i][last] = top;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                result[j][n - i - 1] = matrix[i][j];
             }
+        }   
 
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                matrix[i][j] = result[i][j];
+            }
         }
     }
 }
