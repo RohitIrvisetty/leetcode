@@ -59,6 +59,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -394,6 +395,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0191-number-of-1-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0912-sort-an-array) |
@@ -801,6 +803,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
@@ -820,6 +823,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/RohitIrvisetty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1084,4 +1088,16 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
