@@ -160,6 +160,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -428,6 +429,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
@@ -455,6 +457,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Union Find
 |  |
 | ------- |
