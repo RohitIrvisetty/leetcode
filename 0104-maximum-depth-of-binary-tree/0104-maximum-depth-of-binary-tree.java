@@ -19,10 +19,9 @@ class Solution {
             return 0;
         }
 
-        int right = maxDepth(root.right);
         int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
 
-        int max = Math.max(right, left);
-        return 1 + max;
+        return 1 + Math.max(left, right);
     }
 }
