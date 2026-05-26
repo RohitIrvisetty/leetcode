@@ -206,6 +206,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/RohitIrvisetty/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -498,6 +499,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
@@ -567,6 +569,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
@@ -967,6 +971,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -996,6 +1001,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
