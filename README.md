@@ -567,6 +567,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0547-number-of-provinces](https://github.com/RohitIrvisetty/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -589,6 +590,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0547-number-of-provinces](https://github.com/RohitIrvisetty/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
@@ -968,6 +970,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -999,6 +1002,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
