@@ -60,6 +60,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -379,6 +380,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RohitIrvisetty/leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -842,6 +844,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/RohitIrvisetty/leetcode/tree/master/0367-valid-perfect-square) |
