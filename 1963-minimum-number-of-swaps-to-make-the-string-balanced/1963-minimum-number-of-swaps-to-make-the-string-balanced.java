@@ -11,10 +11,10 @@ class Solution {
             }
 
             if (balance < 0) {
-                maxImbalance = Math.max(maxImbalance, -1 * balance);
+                maxImbalance = Math.min(maxImbalance, balance);
             }
         }
 
-        return (maxImbalance + 1) / 2;
+        return (-1 * maxImbalance + 1) / 2;
     }
 }
