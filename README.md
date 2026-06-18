@@ -888,6 +888,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0401-binary-watch](https://github.com/RohitIrvisetty/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/RohitIrvisetty/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/RohitIrvisetty/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
