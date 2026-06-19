@@ -1,68 +1,62 @@
 class MinStack {
-    private Stack<Long> st;
-    private long mini;
+    private Stack<Long> st = new Stack<>();
+    private long min;
 
-    // Empty Constructor
     public MinStack() {
-        st = new Stack<>();
+        st = new Stack<>();    
     }
-
-    // Method to push a value in stack
+    
     public void push(int value) {
-        // If stack is empty
         if (st.isEmpty()) {
-            // Update the minimum value
-            mini = value;
-
-            // Push current value as minimum
             st.push((long) value);
+            min = value;
             return;
         }
 
-        // If the value is greater than the minimum
-        if (value > mini) {
+        if (value > min) {
             st.push((long) value);
         } else {
-            // Add the modified value to stack
-            st.push(2L * value - mini);
-            // Update the minimum
-            mini = value;
+            st.push(2L * value - min);
+            min = value;
         }
     }
-
-    // Method to pop a value from stack
+    
     public void pop() {
-        // Base case
-        if (st.isEmpty()) return;
+        if (st.isEmpty()) {
+            return;
+        }
 
-        // Get the top
         long x = st.pop();
 
-        // If the modified value was added to stack
-        if (x < mini) {
-            // Update the minimum
-            mini = 2L * mini - x;
+        if (min >= x) {
+            min = 2L * min - x;
         }
     }
-
-    // Method to get the top of stack
+    
     public int top() {
-        // Base case
-        if (st.isEmpty()) return -1;
+        if (st.isEmpty()) {
+            return -1;
+        }
 
-        // Get the top
-        long x = st.peek();
+        long top = st.peek();
 
-        // Return top if minimum is less than the top
-        if (mini < x) return (int) x;
-
-        // Otherwise return mini
-        return (int) mini;
+        if (min < top) {
+            return (int) top;
+        } else {
+            return (int) min;
+        }
     }
-
-    // Method to get the minimum in stack
+    
     public int getMin() {
-        // Return the minimum
-        return (int) mini;
+        return (int) min;
     }
 }
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(value);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
