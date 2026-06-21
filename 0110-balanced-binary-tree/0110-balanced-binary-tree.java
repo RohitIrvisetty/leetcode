@@ -15,7 +15,14 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return helper(root) != -1;
+        if (root == null) {
+            return true;
+        }
+
+        if (helper(root) == -1) {
+            return false;
+        }
+        return true;
     }
 
     private int helper(TreeNode root) {
@@ -26,11 +33,11 @@ class Solution {
         int left = helper(root.left);
         int right = helper(root.right);
 
-        if (left == -1 || right == -1) {
+        if (right == -1 || left == -1) {
             return -1;
         }
 
-        if (Math.abs(left - right) > 1) {
+        if (Math.abs(right - left) > 1) {
             return -1;
         }
 
