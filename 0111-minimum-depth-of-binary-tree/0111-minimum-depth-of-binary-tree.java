@@ -24,16 +24,17 @@ class Solution {
         }
 
         if (root.left == null) {
-            return minDepth(root.right) + 1;
+            return 1 + minDepth(root.right);
         }
 
         if (root.right == null) {
-            return minDepth(root.left) + 1;
+            return 1 + minDepth(root.left);
         }
 
         int left = minDepth(root.left);
         int right = minDepth(root.right);
-
+        
+        
         return 1 + Math.min(left, right);
     }
 }
