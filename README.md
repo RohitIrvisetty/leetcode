@@ -572,6 +572,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0543-diameter-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RohitIrvisetty/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
@@ -724,6 +725,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0504-base-7](https://github.com/RohitIrvisetty/leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
@@ -979,6 +981,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
@@ -1013,6 +1016,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
