@@ -99,6 +99,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitIrvisetty/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -803,6 +804,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0856-score-of-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -1006,6 +1008,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -1047,6 +1050,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## String Matching
 |  |
@@ -1108,6 +1112,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
@@ -1123,6 +1128,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
 | ------- |
