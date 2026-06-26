@@ -592,6 +592,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
@@ -618,6 +619,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
@@ -1025,6 +1027,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1073,6 +1076,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
