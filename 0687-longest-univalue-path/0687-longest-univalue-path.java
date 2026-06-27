@@ -28,16 +28,20 @@ class Solution {
         int left = dfs(root.left);
         int right = dfs(root.right);
 
-        int leftLen = 0, rightLen = 0;
         if (root.left != null && root.left.val == root.val) {
-            leftLen = left + 1;
+            left = left + 1;
+        } else {
+            left = 0;
         }
 
         if (root.right != null && root.right.val == root.val) {
-            rightLen = right + 1;
+            right = right + 1;
+        } else {
+            right = 0;
         }
-        maxLen = Math.max(maxLen, rightLen + leftLen);
 
-        return Math.max(rightLen, leftLen);
+        maxLen = Math.max(maxLen, right + left);
+
+        return Math.max(right, left);
     }
 }
