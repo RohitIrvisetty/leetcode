@@ -226,6 +226,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/RohitIrvisetty/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -595,6 +596,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -622,6 +624,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -1032,6 +1035,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1081,6 +1085,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching
 |  |
 | ------- |
