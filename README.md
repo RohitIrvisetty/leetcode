@@ -601,6 +601,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -629,6 +630,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -1045,6 +1047,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1097,6 +1100,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
