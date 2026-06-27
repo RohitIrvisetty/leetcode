@@ -1,39 +1,29 @@
 class Solution {
     public int compareVersion(String version1, String version2) {
-        String[] version1Delimitted = version1.split("\\.");
-        String[] version2Delimitted = version2.split("\\.");
+        int i = 0, j = 0;
+        int n = version1.length();
+        int m = version2.length();
 
-        int pointer1 = 0, pointer2 = 0;
-        int version1Length = version1Delimitted.length;
-        int version2Length = version2Delimitted.length;
-
-        System.out.println(Arrays.toString(version1Delimitted));
-
-        while (pointer1 < version1Length || pointer2 < version2Length) {
-            int currVersion1, currVersion2;
-
-            if (pointer1 < version1Length) {
-                currVersion1 = Integer.parseInt(version1Delimitted[pointer1]);
-            } else {
-                currVersion1 = 0;
-            }
-            
-            if (pointer2 < version2Length) {
-                currVersion2 = Integer.parseInt(version2Delimitted[pointer2]);
-            } else {
-                currVersion2 = 0;
+        while (i < n || j < m) {
+            int num1 = 0;
+            while (i < n && version1.charAt(i) != '.') {
+                num1 = num1 * 10 + (version1.charAt(i) - '0');
+                i++;
             }
 
-            
-            if (currVersion1 < currVersion2) {
-                return -1;
-            } else if (currVersion1 > currVersion2) {
-                return 1;
+            int num2 = 0;
+            while (j < m && version2.charAt(j) != '.') {
+                num2 = num2 * 10 + (version2.charAt(j) - '0');
+                j++;
             }
 
-            pointer1++;
-            pointer2++;
+            if (num1 < num2) return -1;
+            if (num1 > num2) return 1;
+
+            i++; // Skip '.'
+            j++;
         }
+
         return 0;
     }
 }
