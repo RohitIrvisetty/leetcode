@@ -15,37 +15,31 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        Stack<TreeNode> stack = new Stack<>();
+        List<Integer> ans = new ArrayList<>();
 
         TreeNode curr = root;
-        while (curr != null || !stack.isEmpty()) {
-            while (curr != null) {
-                result.add(curr.val);
-                stack.push(curr);
-                curr = curr.right;
+
+        while (curr != null) {
+            if (curr.right == null) {
+                ans.add(curr.val);
+                curr = curr.left;
+            } else {
+                TreeNode pred = curr.right;
+
+                while (pred.left != null && pred.left != curr) {
+                    pred = pred.left;
+                }
+
+                if (pred.left == null) {
+                    pred.left = curr;
+                    ans.add(curr.val);
+                    curr = curr.right;
+                } else {
+                    pred.left = null;
+                    curr = curr.left;
+                }
             }
-
-            curr = stack.pop();
-            curr = curr.left;
-        }      
-        
-        int left = 0, right = result.size() - 1;
-
-        while (left < right) {
-            swap(result, left, right);
-            left++;
-            right--;
         }
-
-        return result;
-    }
-
-    private void swap(List<Integer> nums, int left, int right) {
-        if (left == right) return;
-
-        nums.set(left, nums.get(left) ^ nums.get(right));
-        nums.set(right, nums.get(left) ^ nums.get(right));
-        nums.set(left, nums.get(left) ^ nums.get(right));
+        return ans.reversed();
     }
 }
