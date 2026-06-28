@@ -1,52 +1,46 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class BSTIterator {
 
-    private Stack<TreeNode> st = new Stack();
+    private TreeNode curr;
 
     public BSTIterator(TreeNode root) {
-
-        traverseLeft(root);
-    }
-
-    public int next() {
-        TreeNode node = st.pop();
-
-        if (node.right != null) {
-            traverseLeft(node.right);
-        }
-
-        return node.val;
-    }
-
-    private void traverseLeft(TreeNode node) {
-        while (node != null) {
-            st.push(node);
-            node = node.left;
-        }
+        curr = root;
     }
 
     public boolean hasNext() {
-        return !st.isEmpty();
+        return curr != null;
+    }
+
+    public int next() {
+        while (curr != null) {
+
+            // No left subtree
+            if (curr.left == null) {
+                int ans = curr.val;
+                curr = curr.right;
+                return ans;
+            }
+
+            // Find inorder predecessor
+            TreeNode pred = curr.left;
+
+            while (pred.right != null && pred.right != curr) {
+                pred = pred.right;
+            }
+
+            // Create thread
+            if (pred.right == null) {
+                pred.right = curr;
+                curr = curr.left;
+            }
+            // Remove thread and visit
+            else {
+                pred.right = null;
+                int ans = curr.val;
+                curr = curr.right;
+                return ans;
+            }
+        }
+
+        return -1;
     }
 }
-
-/**
- * Your BSTIterator object will be instantiated and called as such:
- * BSTIterator obj = new BSTIterator(root);
- * int param_1 = obj.next();
- * boolean param_2 = obj.hasNext();
- */
