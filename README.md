@@ -610,6 +610,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/RohitIrvisetty/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RohitIrvisetty/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -645,6 +646,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/RohitIrvisetty/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -1073,6 +1075,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/RohitIrvisetty/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RohitIrvisetty/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
