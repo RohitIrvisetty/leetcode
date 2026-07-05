@@ -165,6 +165,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -474,6 +475,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Union Find
@@ -882,6 +884,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
