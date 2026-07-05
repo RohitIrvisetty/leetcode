@@ -156,6 +156,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RohitIrvisetty/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -557,6 +558,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2404-most-frequent-even-element](https://github.com/RohitIrvisetty/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Depth-First Search
@@ -925,6 +927,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1539-kth-missing-positive-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitIrvisetty/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
