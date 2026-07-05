@@ -907,6 +907,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0222-count-complete-tree-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/RohitIrvisetty/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -1289,4 +1290,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RohitIrvisetty/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RohitIrvisetty/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
