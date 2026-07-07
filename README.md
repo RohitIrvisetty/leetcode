@@ -146,6 +146,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2164-sort-even-and-odd-indices-independently](https://github.com/RohitIrvisetty/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
