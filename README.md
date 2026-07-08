@@ -168,6 +168,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/RohitIrvisetty/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
@@ -956,6 +957,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RohitIrvisetty/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2594-minimum-time-to-repair-cars](https://github.com/RohitIrvisetty/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
