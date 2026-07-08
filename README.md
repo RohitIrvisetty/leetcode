@@ -142,6 +142,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RohitIrvisetty/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2048-build-array-from-permutation](https://github.com/RohitIrvisetty/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RohitIrvisetty/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -312,6 +313,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0724-find-pivot-index](https://github.com/RohitIrvisetty/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
