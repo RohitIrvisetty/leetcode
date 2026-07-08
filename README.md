@@ -153,6 +153,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -309,6 +310,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2270-number-of-ways-to-split-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Math
