@@ -149,6 +149,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -941,6 +942,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1552-magnetic-force-between-two-balls](https://github.com/RohitIrvisetty/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitIrvisetty/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/RohitIrvisetty/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
