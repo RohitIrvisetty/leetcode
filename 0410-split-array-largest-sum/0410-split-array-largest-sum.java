@@ -4,11 +4,11 @@ class Solution {
 
         int left = getMax(nums), right = getSum(nums);
 
-        while (left <= right) {
+        while (left < right) {
             int mid = left + (right - left) / 2;
 
-            if (canSplit(nums, k, mid) == true) {
-                right = mid - 1;
+            if (canSplit(nums, k, mid) <= k) {
+                right = mid;
             } else {
                 left = mid + 1;
             }
@@ -16,7 +16,7 @@ class Solution {
         return left;
     }
 
-    private boolean canSplit(int[] nums, int maxSplits, int largestSum) {
+    private int canSplit(int[] nums, int maxSplits, int largestSum) {
         int splits = 1;
         int sum = nums[0];
         int n = nums.length;
@@ -26,12 +26,9 @@ class Solution {
             } else {
                 splits++;
                 sum = nums[i];
-                if (splits > maxSplits) {
-                    return false;
-                }
             }
         }
-        return true;
+        return splits;
     }
 
     private int getMax(int[] nums) {
