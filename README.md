@@ -1054,6 +1054,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0022-generate-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RohitIrvisetty/leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/RohitIrvisetty/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RohitIrvisetty/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/RohitIrvisetty/leetcode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0113-path-sum-ii) |
