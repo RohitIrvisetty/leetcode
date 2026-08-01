@@ -7,11 +7,10 @@ class Solution {
         for (int m = maxM; m > 1; m--) {
             long k = (long) Math.pow(num, 1.0 / m);
 
-            for (long candidate = k; candidate <= k + 2; candidate++) {
                 long sum = 1, curr = 1;
 
                 for (int i = 0; i < m; i++) {
-                    curr *= candidate;
+                    curr *= k;
                     if (curr > num) {
                         break;
                     }
@@ -23,9 +22,9 @@ class Solution {
                 }
 
                 if (sum == num) {
-                    return String.valueOf(candidate);
+                    return String.valueOf(k);
                 }
-            }
+            
         }
         return String.valueOf(num - 1);
     }
