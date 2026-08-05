@@ -1,14 +1,23 @@
 class Solution {
     public int findMin(int[] nums) {
         int n = nums.length;
-        int prev = nums[0];
+        int left = 0, right = n - 1;
 
-        for (int i = 1; i < n; i++) {
-            if (prev > nums[i]) {
-                return nums[i];
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] == nums[right] && nums[mid] == nums[left]) {
+                left++;
+                right--;
+            } else if (nums[mid] == nums[right]) {
+                right--;
+            } else if (nums[mid] < nums[right]) {
+                right = mid;
+            } else {
+                left = mid + 1;
             }
         }
-        
-        return nums[0];
+
+        return nums[left];
     }
 }
