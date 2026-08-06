@@ -7,7 +7,7 @@ class Solution {
         int left = 0, right = x / 2;
 
         while (left < right) {
-            int mid = left + (right - left + 1) / 2;
+            int mid = left + ((right - left + 1) >> 1);
 
             long mid2 = (long) mid * (long) mid;
 
