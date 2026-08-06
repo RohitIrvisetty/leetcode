@@ -1,58 +1,53 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-        int n = bloomDay.length;
-        if (m > n / k) {
-            return - 1;
+        long left = 1, right = getMax(bloomDay);
+
+        if ((long) m * (long) k > bloomDay.length) {
+            return -1;
         }
 
-        int left = getMin(bloomDay), right = getMax(bloomDay);
         while (left < right) {
-            int mid = left + (right - left) / 2;
-            int bouquets = makeBouquets(bloomDay, mid, k);
-            
-            
-            if (bouquets >= m) {
+            long mid = left + (right - left) / 2;
+
+            int possibleBoquets = calculateBouquets(bloomDay, mid, k);
+
+            if (possibleBoquets >= m) {
                 right = mid;
             } else {
                 left = mid + 1;
             }
         }
-
-        return left;
+        return (int) left;
     }
 
-    private int getMin(int[] bloomDay) {
-        int min = Integer.MAX_VALUE;
-        for (int day: bloomDay) {
-            min = Math.min(min, day);
-        }
-        
-        return min;
-    }
+    private long getMax(int[] bloomDay) {
+        int n = bloomDay.length;
+        int maxi = Integer.MIN_VALUE;
 
-    private int getMax(int[] bloomDay) {
-        int max = Integer.MIN_VALUE;
-        for (int day: bloomDay) {
-            max = Math.max(max, day);
-        }
-        return max;
-    }
-
-    private int makeBouquets(int[] bloomDay, int day, int adjFlowersReq) {
-
-        int counter = 0;
-        int adjFlowersCount = 0;
-        for (int i = 0; i < bloomDay.length; i++) {
-            if (bloomDay[i] <= day) {
-                counter++;
-                if (counter == adjFlowersReq) {
-                    adjFlowersCount += (counter / adjFlowersReq);
-                    counter = 0;
-                }
-            } else {
-                counter = 0;
+        for (int i = 0; i < n; i++) {
+            if (bloomDay[i] > maxi) {
+                maxi = bloomDay[i];
             }
         }
-        return adjFlowersCount;
-    } 
+        return (long) maxi;
+    }
+
+    private int calculateBouquets(int[] bloomDays, long mid, int k) {
+        int n = bloomDays.length;
+        int count = 0, currLen = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (bloomDays[i] <= mid) {
+                currLen++;
+            } else {
+                currLen = 0;
+            }
+
+            if (currLen == k) {
+                count++;
+                currLen = 0;
+            }
+        }
+        return count;
+    }
 }
