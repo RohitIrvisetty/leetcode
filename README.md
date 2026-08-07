@@ -112,6 +112,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -698,6 +699,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -914,6 +916,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0948-sort-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
