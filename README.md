@@ -167,6 +167,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RohitIrvisetty/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2365-task-scheduler-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2404-most-frequent-even-element](https://github.com/RohitIrvisetty/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RohitIrvisetty/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -249,6 +250,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2365-task-scheduler-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/RohitIrvisetty/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
@@ -497,6 +499,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2365-task-scheduler-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
