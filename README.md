@@ -112,6 +112,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/RohitIrvisetty/leetcode/tree/master/1046-last-stone-weight) |
+| [1095-find-in-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
@@ -967,6 +968,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0875-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitIrvisetty/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1354,8 +1356,13 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0278-first-bad-version](https://github.com/RohitIrvisetty/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RohitIrvisetty/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RohitIrvisetty/leetcode/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
