@@ -94,6 +94,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0724-find-pivot-index](https://github.com/RohitIrvisetty/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/RohitIrvisetty/leetcode/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -988,6 +989,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/RohitIrvisetty/leetcode/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/RohitIrvisetty/leetcode/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0875-koko-eating-bananas) |
