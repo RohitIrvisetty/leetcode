@@ -121,6 +121,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1241-decompress-run-length-encoded-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RohitIrvisetty/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/RohitIrvisetty/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
