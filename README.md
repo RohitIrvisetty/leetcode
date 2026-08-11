@@ -721,6 +721,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1405-longest-happy-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1405-longest-happy-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/RohitIrvisetty/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/RohitIrvisetty/leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -854,6 +855,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1108-defanging-an-ip-address](https://github.com/RohitIrvisetty/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1405-longest-happy-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1405-longest-happy-string) |
 | [1446-consecutive-characters](https://github.com/RohitIrvisetty/leetcode/tree/master/1446-consecutive-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -944,6 +946,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RohitIrvisetty/leetcode/tree/master/1046-last-stone-weight) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
+| [1405-longest-happy-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1405-longest-happy-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
