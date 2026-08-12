@@ -119,6 +119,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/RohitIrvisetty/leetcode/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1241-decompress-run-length-encoded-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RohitIrvisetty/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -389,6 +390,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1017-convert-to-base-2](https://github.com/RohitIrvisetty/leetcode/tree/master/1017-convert-to-base-2) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/RohitIrvisetty/leetcode/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1512-number-of-good-pairs) |
