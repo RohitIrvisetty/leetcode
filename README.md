@@ -395,6 +395,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1017-convert-to-base-2](https://github.com/RohitIrvisetty/leetcode/tree/master/1017-convert-to-base-2) |
+| [1134-armstrong-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1134-armstrong-number) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/RohitIrvisetty/leetcode/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1486-xor-operation-in-an-array) |
