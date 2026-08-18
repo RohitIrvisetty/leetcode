@@ -328,6 +328,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitIrvisetty/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2330-valid-palindrome-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2330-valid-palindrome-iv) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
@@ -891,6 +892,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2330-valid-palindrome-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2330-valid-palindrome-iv) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
