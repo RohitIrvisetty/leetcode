@@ -353,6 +353,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0012-integer-to-roman](https://github.com/RohitIrvisetty/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RohitIrvisetty/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/RohitIrvisetty/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RohitIrvisetty/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/0067-add-binary) |
@@ -503,6 +504,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/0067-add-binary) |
@@ -827,6 +829,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0020-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RohitIrvisetty/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/0067-add-binary) |
