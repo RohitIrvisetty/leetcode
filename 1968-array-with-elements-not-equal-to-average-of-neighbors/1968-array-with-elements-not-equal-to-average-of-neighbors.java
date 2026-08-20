@@ -6,7 +6,7 @@ class Solution {
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length;
 
-        int median = quickSelect(nums.clone(), n / 2);
+        int median = quickSelect(nums, n / 2);
 
         int left = 0;
         int i = 0;
