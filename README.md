@@ -236,6 +236,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0451-sort-characters-by-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
+| [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/RohitIrvisetty/leetcode/tree/master/0645-set-mismatch) |
@@ -388,6 +389,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0504-base-7](https://github.com/RohitIrvisetty/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 | [0556-next-greater-element-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -1099,6 +1101,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1426,4 +1429,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
