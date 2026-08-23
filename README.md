@@ -325,6 +325,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0922-sort-array-by-parity-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/RohitIrvisetty/leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1861-rotating-the-box](https://github.com/RohitIrvisetty/leetcode/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -797,6 +798,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0725-split-linked-list-in-parts](https://github.com/RohitIrvisetty/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/RohitIrvisetty/leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -825,6 +827,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0342-power-of-four](https://github.com/RohitIrvisetty/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/RohitIrvisetty/leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1922-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/2050-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -956,6 +959,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1021-remove-outermost-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/RohitIrvisetty/leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
