@@ -93,6 +93,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/RohitIrvisetty/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
@@ -246,6 +247,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohitIrvisetty/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
@@ -789,6 +791,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0355-design-twitter](https://github.com/RohitIrvisetty/leetcode/tree/master/0355-design-twitter) |
 | [0369-plus-one-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/RohitIrvisetty/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -1098,6 +1101,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 ## Randomized
@@ -1408,6 +1412,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 ## Iterator
 |  |
 | ------- |
