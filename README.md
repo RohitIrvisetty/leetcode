@@ -264,6 +264,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1636-sort-array-by-increasing-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -799,6 +800,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
