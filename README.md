@@ -804,6 +804,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
