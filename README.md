@@ -411,6 +411,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1017-convert-to-base-2](https://github.com/RohitIrvisetty/leetcode/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1134-armstrong-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1134-armstrong-number) |
+| [1137-n-th-tribonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/RohitIrvisetty/leetcode/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -463,6 +464,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0907-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1764-maximum-repeating-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RohitIrvisetty/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -1350,6 +1352,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
 | ------- |
