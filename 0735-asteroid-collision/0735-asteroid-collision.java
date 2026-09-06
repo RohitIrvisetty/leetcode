@@ -9,7 +9,7 @@ class Solution {
                 // Hence pop it from the stack, also continue with the next asteroid in the stack.
                 if (Math.abs(st.peek()) < Math.abs(asteroid)) {
                     st.pop();
-                    continue;
+                    //continue;
                 }
                 // If both asteroids have the same size, then both asteroids will explode.
                 // Pop the asteroid from the stack; also, we won't push the current asteroid to the stack.
