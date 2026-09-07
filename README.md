@@ -551,6 +551,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3174-clear-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/3174-clear-digits) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Union Find
 |  |
@@ -945,6 +946,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RohitIrvisetty/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3174-clear-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/RohitIrvisetty/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/RohitIrvisetty/leetcode/tree/master/3340-check-balanced-string) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
@@ -997,6 +999,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2390-removing-stars-from-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
