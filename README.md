@@ -321,6 +321,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0277-find-the-celebrity](https://github.com/RohitIrvisetty/leetcode/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -1489,6 +1490,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Interactive
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/RohitIrvisetty/leetcode/tree/master/0277-find-the-celebrity) |
 | [0278-first-bad-version](https://github.com/RohitIrvisetty/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RohitIrvisetty/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1095-find-in-mountain-array) |
@@ -1521,4 +1523,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/RohitIrvisetty/leetcode/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
