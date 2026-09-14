@@ -248,6 +248,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
 | [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -816,6 +817,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0355-design-twitter](https://github.com/RohitIrvisetty/leetcode/tree/master/0355-design-twitter) |
 | [0369-plus-one-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/RohitIrvisetty/leetcode/tree/master/0725-split-linked-list-in-parts) |
@@ -1158,6 +1160,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0707-design-linked-list) |
@@ -1358,6 +1361,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 ## Geometry
