@@ -263,6 +263,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1217-relative-sort-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -988,6 +989,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RohitIrvisetty/leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0856-score-of-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-sum-of-subarray-minimums](https://github.com/RohitIrvisetty/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1159,6 +1161,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
@@ -1478,6 +1481,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Hash Function
 |  |
 | ------- |
