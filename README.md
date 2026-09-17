@@ -106,6 +106,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/RohitIrvisetty/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RohitIrvisetty/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/RohitIrvisetty/leetcode/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0885-spiral-matrix-iii) |
@@ -773,6 +774,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0680-valid-palindrome-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/RohitIrvisetty/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RohitIrvisetty/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
