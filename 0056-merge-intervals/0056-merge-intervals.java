@@ -11,6 +11,6 @@ class Solution {
             }
         }
 
-        return merged.toArray(new int[merged.size()][]);
+        return merged.toArray(new int[0][2]);
     }
 }
