@@ -1549,4 +1549,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/RohitIrvisetty/leetcode/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/RohitIrvisetty/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
