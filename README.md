@@ -80,6 +80,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/RohitIrvisetty/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0454-4sum-ii) |
@@ -474,6 +475,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0338-counting-bits](https://github.com/RohitIrvisetty/leetcode/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RohitIrvisetty/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0487-max-consecutive-ones-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -599,6 +601,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/RohitIrvisetty/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RohitIrvisetty/leetcode/tree/master/0645-set-mismatch) |
@@ -769,6 +772,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0376-wiggle-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RohitIrvisetty/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohitIrvisetty/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0680-valid-palindrome-ii) |
