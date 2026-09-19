@@ -26,6 +26,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0049-group-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/RohitIrvisetty/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RohitIrvisetty/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -464,6 +465,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0022-generate-parentheses](https://github.com/RohitIrvisetty/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RohitIrvisetty/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/RohitIrvisetty/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RohitIrvisetty/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -765,6 +767,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohitIrvisetty/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RohitIrvisetty/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/RohitIrvisetty/leetcode/tree/master/0135-candy) |
 | [0280-wiggle-sort](https://github.com/RohitIrvisetty/leetcode/tree/master/0280-wiggle-sort) |
 | [0316-remove-duplicate-letters](https://github.com/RohitIrvisetty/leetcode/tree/master/0316-remove-duplicate-letters) |
