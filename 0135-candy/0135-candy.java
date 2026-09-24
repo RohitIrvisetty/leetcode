@@ -5,7 +5,7 @@ class Solution {
         int total = 1;
         int up = 1;
         int down = 1;
-        int peak = 0;
+        int peak = 1;
 
         for (int i = 1; i < n; i++) {
 
