@@ -64,6 +64,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0238-product-of-array-except-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0271-encode-and-decode-strings) |
@@ -329,6 +330,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0189-rotate-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0277-find-the-celebrity](https://github.com/RohitIrvisetty/leetcode/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -364,6 +366,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RohitIrvisetty/leetcode/tree/master/0724-find-pivot-index) |
@@ -596,6 +599,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0217-contains-duplicate](https://github.com/RohitIrvisetty/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RohitIrvisetty/leetcode/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
 | [0280-wiggle-sort](https://github.com/RohitIrvisetty/leetcode/tree/master/0280-wiggle-sort) |
 | [0295-find-median-from-data-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -772,6 +776,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0045-jump-game-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RohitIrvisetty/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/RohitIrvisetty/leetcode/tree/master/0135-candy) |
+| [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/RohitIrvisetty/leetcode/tree/master/0280-wiggle-sort) |
 | [0316-remove-duplicate-letters](https://github.com/RohitIrvisetty/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -1043,6 +1048,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0023-merge-k-sorted-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RohitIrvisetty/leetcode/tree/master/0355-design-twitter) |
