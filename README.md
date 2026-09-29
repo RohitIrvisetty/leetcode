@@ -167,6 +167,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RohitIrvisetty/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/RohitIrvisetty/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RohitIrvisetty/leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -542,6 +543,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1765-map-of-highest-peak](https://github.com/RohitIrvisetty/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1791-richest-customer-wealth](https://github.com/RohitIrvisetty/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/RohitIrvisetty/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RohitIrvisetty/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -776,6 +778,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0994-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/RohitIrvisetty/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1765-map-of-highest-peak](https://github.com/RohitIrvisetty/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Graph
