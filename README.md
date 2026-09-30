@@ -72,6 +72,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0271-encode-and-decode-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0280-wiggle-sort](https://github.com/RohitIrvisetty/leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/RohitIrvisetty/leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -539,6 +540,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0286-walls-and-gates](https://github.com/RohitIrvisetty/leetcode/tree/master/0286-walls-and-gates) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
@@ -766,6 +768,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0199-binary-tree-right-side-view](https://github.com/RohitIrvisetty/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/RohitIrvisetty/leetcode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/RohitIrvisetty/leetcode/tree/master/0404-sum-of-left-leaves) |
