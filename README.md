@@ -45,6 +45,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0119-pascals-triangle-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohitIrvisetty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RohitIrvisetty/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0137-single-number-ii) |
@@ -535,6 +536,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0073-set-matrix-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/RohitIrvisetty/leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -706,6 +708,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohitIrvisetty/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RohitIrvisetty/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -759,6 +762,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0112-path-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RohitIrvisetty/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/RohitIrvisetty/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0226-invert-binary-tree) |
@@ -1518,6 +1522,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Combinatorics
