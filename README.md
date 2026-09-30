@@ -135,6 +135,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitIrvisetty/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/RohitIrvisetty/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/RohitIrvisetty/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/RohitIrvisetty/leetcode/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1095-find-in-mountain-array) |
@@ -547,6 +548,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0885-spiral-matrix-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/RohitIrvisetty/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -746,6 +748,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RohitIrvisetty/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1020-number-of-enclaves](https://github.com/RohitIrvisetty/leetcode/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/RohitIrvisetty/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RohitIrvisetty/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -787,6 +790,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/RohitIrvisetty/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/RohitIrvisetty/leetcode/tree/master/1036-rotting-oranges) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/RohitIrvisetty/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1765-map-of-highest-peak](https://github.com/RohitIrvisetty/leetcode/tree/master/1765-map-of-highest-peak) |
@@ -1528,6 +1532,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1020-number-of-enclaves](https://github.com/RohitIrvisetty/leetcode/tree/master/1020-number-of-enclaves) |
 ## Combinatorics
 |  |
 | ------- |
