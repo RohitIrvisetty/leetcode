@@ -105,6 +105,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/RohitIrvisetty/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/RohitIrvisetty/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
@@ -275,6 +276,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohitIrvisetty/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
@@ -544,6 +546,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0286-walls-and-gates](https://github.com/RohitIrvisetty/leetcode/tree/master/0286-walls-and-gates) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0542-01-matrix) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0898-transpose-matrix) |
@@ -634,6 +637,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RohitIrvisetty/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0767-reorganize-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/RohitIrvisetty/leetcode/tree/master/0881-boats-to-save-people) |
@@ -742,6 +746,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/0666-path-sum-iv) |
 | [0687-longest-univalue-path](https://github.com/RohitIrvisetty/leetcode/tree/master/0687-longest-univalue-path) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -784,6 +789,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1532,6 +1538,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [1020-number-of-enclaves](https://github.com/RohitIrvisetty/leetcode/tree/master/1020-number-of-enclaves) |
 ## Combinatorics
 |  |
@@ -1554,6 +1561,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 ## Iterator
 |  |
