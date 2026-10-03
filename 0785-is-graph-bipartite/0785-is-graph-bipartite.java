@@ -7,7 +7,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             if (colors[i] == -1) {
-                colors[i] = 0;
+                colors[i] = 1;
                 if (!dfs(graph, colors, i)) {
                     return false;
                 }
