@@ -265,6 +265,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/RohitIrvisetty/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -792,6 +793,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/RohitIrvisetty/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohitIrvisetty/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/RohitIrvisetty/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/RohitIrvisetty/leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/RohitIrvisetty/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -975,6 +977,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/RohitIrvisetty/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -1633,4 +1636,8 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RohitIrvisetty/leetcode/tree/master/0056-merge-intervals) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/RohitIrvisetty/leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
