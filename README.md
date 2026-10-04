@@ -765,6 +765,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/RohitIrvisetty/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -816,6 +817,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/RohitIrvisetty/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1641,6 +1643,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0277-find-the-celebrity](https://github.com/RohitIrvisetty/leetcode/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0785-is-graph-bipartite](https://github.com/RohitIrvisetty/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/RohitIrvisetty/leetcode/tree/master/0997-find-the-town-judge) |
 ## Timsort
 |  |
@@ -1667,8 +1670,17 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0207-course-schedule](https://github.com/RohitIrvisetty/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RohitIrvisetty/leetcode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
