@@ -737,6 +737,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RohitIrvisetty/leetcode/tree/master/0257-binary-tree-paths) |
+| [0261-graph-valid-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/RohitIrvisetty/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -793,6 +794,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0207-course-schedule](https://github.com/RohitIrvisetty/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/RohitIrvisetty/leetcode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -1560,6 +1562,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0128-longest-consecutive-sequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RohitIrvisetty/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/RohitIrvisetty/leetcode/tree/master/0695-max-area-of-island) |
@@ -1634,6 +1637,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0207-course-schedule](https://github.com/RohitIrvisetty/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0261-graph-valid-tree) |
 | [0277-find-the-celebrity](https://github.com/RohitIrvisetty/leetcode/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0785-is-graph-bipartite](https://github.com/RohitIrvisetty/leetcode/tree/master/0785-is-graph-bipartite) |
