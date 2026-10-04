@@ -24,7 +24,7 @@ class Solution {
     public Node cloneGraph(Node node) {
         if (node == null) {
             return node;
-        }    
+        }
 
         if (visited.containsKey(node)) {
             return visited.get(node);
@@ -33,8 +33,14 @@ class Solution {
         Node cloneNode = new Node(node.val, new ArrayList<>());
         visited.put(node, cloneNode);
 
-        for (Node neighbor: node.neighbors) {
-            cloneNode.neighbors.add(cloneGraph(neighbor));
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(node);
+
+        while (!queue.isEmpty()) {
+            Node currNode = queue.poll();
+            for (Node neighbor : node.neighbors) {
+                cloneNode.neighbors.add(cloneGraph(neighbor));
+            }
         }
 
         return cloneNode;
