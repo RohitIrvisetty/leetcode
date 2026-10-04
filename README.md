@@ -219,6 +219,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RohitIrvisetty/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RohitIrvisetty/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [2917-find-the-k-or-of-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
@@ -570,6 +571,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RohitIrvisetty/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RohitIrvisetty/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -776,6 +778,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RohitIrvisetty/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RohitIrvisetty/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -828,6 +831,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1765-map-of-highest-peak](https://github.com/RohitIrvisetty/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RohitIrvisetty/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -1570,6 +1574,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0695-max-area-of-island](https://github.com/RohitIrvisetty/leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/RohitIrvisetty/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RohitIrvisetty/leetcode/tree/master/1020-number-of-enclaves) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RohitIrvisetty/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
