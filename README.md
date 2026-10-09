@@ -69,6 +69,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/RohitIrvisetty/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/RohitIrvisetty/leetcode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0280-wiggle-sort](https://github.com/RohitIrvisetty/leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/RohitIrvisetty/leetcode/tree/master/0283-move-zeroes) |
@@ -744,6 +745,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RohitIrvisetty/leetcode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/RohitIrvisetty/leetcode/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/RohitIrvisetty/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -804,6 +806,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0210-course-schedule-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/RohitIrvisetty/leetcode/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/RohitIrvisetty/leetcode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -984,6 +987,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0205-isomorphic-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RohitIrvisetty/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RohitIrvisetty/leetcode/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/RohitIrvisetty/leetcode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/RohitIrvisetty/leetcode/tree/master/0290-word-pattern) |
@@ -1652,6 +1656,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0207-course-schedule](https://github.com/RohitIrvisetty/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/RohitIrvisetty/leetcode/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/RohitIrvisetty/leetcode/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RohitIrvisetty/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0785-is-graph-bipartite](https://github.com/RohitIrvisetty/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -1682,11 +1687,13 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0207-course-schedule](https://github.com/RohitIrvisetty/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/RohitIrvisetty/leetcode/tree/master/0269-alien-dictionary) |
 | [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RohitIrvisetty/leetcode/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/RohitIrvisetty/leetcode/tree/master/0269-alien-dictionary) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
