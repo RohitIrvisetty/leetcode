@@ -115,6 +115,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RohitIrvisetty/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RohitIrvisetty/leetcode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/RohitIrvisetty/leetcode/tree/master/0752-open-the-lock) |
 | [0774-minimize-max-distance-to-gas-station](https://github.com/RohitIrvisetty/leetcode/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
@@ -287,6 +288,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/RohitIrvisetty/leetcode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/RohitIrvisetty/leetcode/tree/master/0846-hand-of-straights) |
@@ -826,6 +828,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0694-number-of-distinct-islands](https://github.com/RohitIrvisetty/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/RohitIrvisetty/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RohitIrvisetty/leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/RohitIrvisetty/leetcode/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RohitIrvisetty/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/RohitIrvisetty/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -1013,6 +1016,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0680-valid-palindrome-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/RohitIrvisetty/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/RohitIrvisetty/leetcode/tree/master/0709-to-lower-case) |
+| [0752-open-the-lock](https://github.com/RohitIrvisetty/leetcode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/RohitIrvisetty/leetcode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/RohitIrvisetty/leetcode/tree/master/0784-letter-case-permutation) |
@@ -1674,6 +1678,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/RohitIrvisetty/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/RohitIrvisetty/leetcode/tree/master/0752-open-the-lock) |
 ## Graph Coloring
 |  |
 | ------- |
