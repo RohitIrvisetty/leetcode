@@ -27,7 +27,7 @@ class Solution {
         
         for (int i = 0; i < length / k; i++) {
             int counter = k;
-            prev = prev_subList;
+            //prev = dummy;
             
             while (counter > 0) {
                 ListNode next = current.next;
