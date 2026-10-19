@@ -951,6 +951,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2487-remove-nodes-from-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3062-winner-of-the-linked-list-game](https://github.com/RohitIrvisetty/leetcode/tree/master/3062-winner-of-the-linked-list-game) |
 ## Recursion
 |  |
 | ------- |
