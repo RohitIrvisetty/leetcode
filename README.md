@@ -928,6 +928,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0707-design-linked-list) |
+| [0708-insert-into-a-sorted-circular-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/RohitIrvisetty/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
