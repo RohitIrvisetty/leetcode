@@ -378,6 +378,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1861-rotating-the-box](https://github.com/RohitIrvisetty/leetcode/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/RohitIrvisetty/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RohitIrvisetty/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/RohitIrvisetty/leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -680,6 +681,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RohitIrvisetty/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1970-sorting-the-sentence](https://github.com/RohitIrvisetty/leetcode/tree/master/1970-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/RohitIrvisetty/leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/RohitIrvisetty/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -935,6 +937,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/RohitIrvisetty/leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
