@@ -607,6 +607,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2149-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitIrvisetty/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/RohitIrvisetty/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/RohitIrvisetty/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -944,6 +945,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/RohitIrvisetty/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
