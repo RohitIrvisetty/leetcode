@@ -232,6 +232,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RohitIrvisetty/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -952,6 +953,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3062-winner-of-the-linked-list-game](https://github.com/RohitIrvisetty/leetcode/tree/master/3062-winner-of-the-linked-list-game) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1486,6 +1488,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Geometry
 |  |
 | ------- |
