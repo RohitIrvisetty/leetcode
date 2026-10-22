@@ -180,6 +180,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RohitIrvisetty/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/RohitIrvisetty/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RohitIrvisetty/leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -945,6 +946,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/RohitIrvisetty/leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
@@ -1299,6 +1301,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 ## Randomized
 |  |
@@ -1496,6 +1499,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Geometry
@@ -1533,6 +1537,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/RohitIrvisetty/leetcode/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1558,6 +1563,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Binary Search Tree
 |  |
 | ------- |
