@@ -101,6 +101,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RohitIrvisetty/leetcode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohitIrvisetty/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -929,6 +930,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0369-plus-one-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0707-design-linked-list) |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
@@ -1287,6 +1289,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0707-design-linked-list) |
@@ -1524,6 +1527,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0232-implement-queue-using-stacks](https://github.com/RohitIrvisetty/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohitIrvisetty/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
