@@ -3,7 +3,6 @@ class MyCircularQueue {
     class Node {
         int val;
         Node next;
-        Node prev;
 
         public Node(int val) {
             this.val = val;
@@ -12,13 +11,10 @@ class MyCircularQueue {
 
     int maxCapacity = 0;
     int currCapacity = 0;
-    Node head = new Node(-1);
-    Node tail = new Node(-1);
+    Node head, tail;
 
     public MyCircularQueue(int k) {
         this.maxCapacity = k;
-        this.head.next = tail;
-        this.tail.prev = head;
     }
     
     public boolean enQueue(int value) {
@@ -27,11 +23,12 @@ class MyCircularQueue {
         }
 
         Node newNode = new Node(value);
-        newNode.next = tail;
-        newNode.prev = tail.prev;
-        tail.prev.next = newNode;
-        tail.prev = newNode;
-        
+        if (currCapacity == 0) {
+            head = tail = newNode;
+        } else {
+            tail.next = newNode;
+            tail = newNode;
+        }
         currCapacity++;
         return true;
     }
@@ -42,15 +39,13 @@ class MyCircularQueue {
         }
 
         currCapacity--;
-        Node nodeToRemove = head.next;
-        head.next = nodeToRemove.next;
-        nodeToRemove.next.prev = head;
+        head = head.next;
         return true;
     }
     
     public int Front() {
         if (currCapacity > 0) {
-            return head.next.val;
+            return head.val;
         }
 
         return -1;
@@ -58,7 +53,7 @@ class MyCircularQueue {
     
     public int Rear() {
         if (currCapacity > 0) {
-            return tail.prev.val;
+            return tail.val;
         }
         
         return -1;
