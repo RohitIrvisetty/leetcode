@@ -617,6 +617,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2181-merge-nodes-in-between-zeros](https://github.com/RohitIrvisetty/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2365-task-scheduler-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -962,6 +963,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RohitIrvisetty/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -1087,6 +1089,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 | [2330-valid-palindrome-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2330-valid-palindrome-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RohitIrvisetty/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -1151,6 +1154,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/RohitIrvisetty/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/RohitIrvisetty/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -1313,6 +1317,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 | [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
+| [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 ## Randomized
 |  |
 | ------- |
@@ -1512,6 +1517,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
+| [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Geometry
