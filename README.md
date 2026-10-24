@@ -945,6 +945,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0876-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1206-design-skiplist](https://github.com/RohitIrvisetty/leetcode/tree/master/1206-design-skiplist) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/RohitIrvisetty/leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
@@ -1306,6 +1307,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0706-design-hashmap](https://github.com/RohitIrvisetty/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [1206-design-skiplist](https://github.com/RohitIrvisetty/leetcode/tree/master/1206-design-skiplist) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
