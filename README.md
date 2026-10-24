@@ -315,6 +315,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1636-sort-array-by-increasing-frequency](https://github.com/RohitIrvisetty/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RohitIrvisetty/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -952,6 +953,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1669-merge-in-between-linked-lists](https://github.com/RohitIrvisetty/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/RohitIrvisetty/leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1308,6 +1310,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
+| [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
 ## Randomized
 |  |
 | ------- |
@@ -1506,6 +1509,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Geometry
