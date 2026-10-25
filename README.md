@@ -1185,6 +1185,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1046-last-stone-weight](https://github.com/RohitIrvisetty/leetcode/tree/master/1046-last-stone-weight) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/RohitIrvisetty/leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1405-longest-happy-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1405-longest-happy-string) |
+| [1845-seat-reservation-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1845-seat-reservation-manager) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -1321,6 +1322,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1670-design-front-middle-back-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1708-design-parking-system](https://github.com/RohitIrvisetty/leetcode/tree/master/1708-design-parking-system) |
 | [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
+| [1845-seat-reservation-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1845-seat-reservation-manager) |
 | [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 ## Randomized
 |  |
