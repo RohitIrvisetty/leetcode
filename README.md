@@ -82,6 +82,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/RohitIrvisetty/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0379-design-phone-directory](https://github.com/RohitIrvisetty/leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
@@ -273,6 +274,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0347-top-k-frequent-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/RohitIrvisetty/leetcode/tree/master/0355-design-twitter) |
+| [0379-design-phone-directory](https://github.com/RohitIrvisetty/leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -934,6 +936,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0328-odd-even-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/RohitIrvisetty/leetcode/tree/master/0355-design-twitter) |
 | [0369-plus-one-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0369-plus-one-linked-list) |
+| [0379-design-phone-directory](https://github.com/RohitIrvisetty/leetcode/tree/master/0379-design-phone-directory) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
@@ -1300,6 +1303,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0295-find-median-from-data-stream](https://github.com/RohitIrvisetty/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RohitIrvisetty/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/RohitIrvisetty/leetcode/tree/master/0355-design-twitter) |
+| [0379-design-phone-directory](https://github.com/RohitIrvisetty/leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
@@ -1551,6 +1555,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0225-implement-stack-using-queues](https://github.com/RohitIrvisetty/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RohitIrvisetty/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0379-design-phone-directory](https://github.com/RohitIrvisetty/leetcode/tree/master/0379-design-phone-directory) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/RohitIrvisetty/leetcode/tree/master/0641-design-circular-deque) |
