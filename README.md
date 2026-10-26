@@ -397,6 +397,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2330-valid-palindrome-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2330-valid-palindrome-iv) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RohitIrvisetty/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2674-split-a-circular-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2674-split-a-circular-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
@@ -969,6 +970,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2674-split-a-circular-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2674-split-a-circular-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3062-winner-of-the-linked-list-game](https://github.com/RohitIrvisetty/leetcode/tree/master/3062-winner-of-the-linked-list-game) |
