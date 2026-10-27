@@ -280,6 +280,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RohitIrvisetty/leetcode/tree/master/0389-find-the-difference) |
+| [0432-all-oone-data-structure](https://github.com/RohitIrvisetty/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/RohitIrvisetty/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -942,6 +943,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0369-plus-one-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0379-design-phone-directory](https://github.com/RohitIrvisetty/leetcode/tree/master/0379-design-phone-directory) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/RohitIrvisetty/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
@@ -1315,6 +1317,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/RohitIrvisetty/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitIrvisetty/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/RohitIrvisetty/leetcode/tree/master/0622-design-circular-queue) |
@@ -1525,6 +1528,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0146-lru-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/RohitIrvisetty/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/RohitIrvisetty/leetcode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/RohitIrvisetty/leetcode/tree/master/1582-design-browser-history) |
