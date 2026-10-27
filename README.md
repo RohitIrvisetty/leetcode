@@ -240,6 +240,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -330,6 +331,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Two Pointers
 |  |
@@ -631,6 +633,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/RohitIrvisetty/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/RohitIrvisetty/leetcode/tree/master/3174-clear-digits) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union Find
 |  |
 | ------- |
@@ -976,6 +979,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3062-winner-of-the-linked-list-game](https://github.com/RohitIrvisetty/leetcode/tree/master/3062-winner-of-the-linked-list-game) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1193,6 +1197,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1528,6 +1533,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2296-design-a-text-editor](https://github.com/RohitIrvisetty/leetcode/tree/master/2296-design-a-text-editor) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -1666,6 +1672,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
 |  |
 | ------- |
