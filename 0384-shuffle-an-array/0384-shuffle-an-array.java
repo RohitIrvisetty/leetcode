@@ -8,16 +8,16 @@ class Solution {
     }
     
     public int[] reset() {
-        array = original;
-        original = original.clone();
+        array = original.clone();
+        //original = original.clone();
         return array;
     }
     
     public int[] shuffle() {
         int n = array.length;
 
-        for (int i = n - 1; i >= 0; i--) {
-            int random = (int) (Math.random() * (i + 1));
+        for (int i = 0; i < n; i++) {
+            int random = (int) (Math.random() * (n - i) + i);
 
             swap(array, i , random);
         }
