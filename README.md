@@ -450,6 +450,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0371-sum-of-two-integers](https://github.com/RohitIrvisetty/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/RohitIrvisetty/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RohitIrvisetty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/RohitIrvisetty/leetcode/tree/master/0412-fizz-buzz) |
@@ -942,6 +943,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0355-design-twitter](https://github.com/RohitIrvisetty/leetcode/tree/master/0355-design-twitter) |
 | [0369-plus-one-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0379-design-phone-directory](https://github.com/RohitIrvisetty/leetcode/tree/master/0379-design-phone-directory) |
+| [0382-linked-list-random-node](https://github.com/RohitIrvisetty/leetcode/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/RohitIrvisetty/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -1339,6 +1341,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitIrvisetty/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/RohitIrvisetty/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
 | [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 ## Bucket Sort
@@ -1713,6 +1716,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/RohitIrvisetty/leetcode/tree/master/0382-linked-list-random-node) |
 | [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 ## Range Minimum/Maximum Query
 |  |
