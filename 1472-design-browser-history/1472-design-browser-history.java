@@ -1,16 +1,16 @@
 class BrowserHistory {
-    Stack<String> history;
-    Stack<String> forward;
+    Deque<String> history;
+    Deque<String> forward;
     String current;
 
     public BrowserHistory(String homepage) {
-        history = new Stack<>();
-        forward = new Stack<>();
+        history = new ArrayDeque<>();
+        forward = new ArrayDeque<>();
         current = homepage;
     }
     
     public void visit(String url) {
-        forward = new Stack<>();
+        forward = new ArrayDeque<>();
 
         history.push(current);
         current = url;
