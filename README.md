@@ -458,6 +458,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0441-arranging-coins](https://github.com/RohitIrvisetty/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitIrvisetty/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0470-implement-rand10-using-rand7](https://github.com/RohitIrvisetty/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0483-smallest-good-base](https://github.com/RohitIrvisetty/leetcode/tree/master/0483-smallest-good-base) |
 | [0504-base-7](https://github.com/RohitIrvisetty/leetcode/tree/master/0504-base-7) |
@@ -1343,6 +1344,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/RohitIrvisetty/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/RohitIrvisetty/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
+| [0470-implement-rand10-using-rand7](https://github.com/RohitIrvisetty/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 ## Bucket Sort
 |  |
@@ -1783,4 +1785,12 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/RohitIrvisetty/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/RohitIrvisetty/leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/RohitIrvisetty/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
