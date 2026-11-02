@@ -98,6 +98,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0485-max-consecutive-ones](https://github.com/RohitIrvisetty/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0496-next-greater-element-i](https://github.com/RohitIrvisetty/leetcode/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/RohitIrvisetty/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0542-01-matrix) |
@@ -408,6 +409,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0238-product-of-array-except-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/RohitIrvisetty/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitIrvisetty/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RohitIrvisetty/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -462,6 +464,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0477-total-hamming-distance](https://github.com/RohitIrvisetty/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/RohitIrvisetty/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0483-smallest-good-base](https://github.com/RohitIrvisetty/leetcode/tree/master/0483-smallest-good-base) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/RohitIrvisetty/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/RohitIrvisetty/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RohitIrvisetty/leetcode/tree/master/0509-fibonacci-number) |
@@ -1240,6 +1243,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0410-split-array-largest-sum](https://github.com/RohitIrvisetty/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/RohitIrvisetty/leetcode/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/RohitIrvisetty/leetcode/tree/master/0483-smallest-good-base) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/RohitIrvisetty/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0774-minimize-max-distance-to-gas-station](https://github.com/RohitIrvisetty/leetcode/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/RohitIrvisetty/leetcode/tree/master/0792-binary-search) |
@@ -1347,6 +1351,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0384-shuffle-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/0384-shuffle-an-array) |
 | [0470-implement-rand10-using-rand7](https://github.com/RohitIrvisetty/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/RohitIrvisetty/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/RohitIrvisetty/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 ## Bucket Sort
 |  |
@@ -1683,6 +1688,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RohitIrvisetty/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/RohitIrvisetty/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0895-maximum-frequency-stack](https://github.com/RohitIrvisetty/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
@@ -1722,6 +1728,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/RohitIrvisetty/leetcode/tree/master/0382-linked-list-random-node) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/RohitIrvisetty/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/RohitIrvisetty/leetcode/tree/master/0519-random-flip-matrix) |
 ## Range Minimum/Maximum Query
 |  |
