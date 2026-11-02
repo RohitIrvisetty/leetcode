@@ -223,6 +223,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RohitIrvisetty/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2460-apply-operations-to-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -401,6 +402,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2330-valid-palindrome-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2330-valid-palindrome-iv) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RohitIrvisetty/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2674-split-a-circular-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/2674-split-a-circular-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RohitIrvisetty/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -634,6 +636,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2365-task-scheduler-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2460-apply-operations-to-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RohitIrvisetty/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
