@@ -242,6 +242,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/RohitIrvisetty/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -334,6 +335,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/RohitIrvisetty/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Two Pointers
