@@ -1,32 +1,36 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
-        int n = nums.length;
-        for(int i = 0; i < n; i++) {
+        List<List<Integer>> res = new ArrayList<>();
 
-            int left = i + 1, right = n - 1;
-
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-
-            while(left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-
-                if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    right--;
-                    left++;
-                    while (left < right && nums[left] == nums[left - 1]) left++;
-                    while (left < right && nums[right] == nums[right + 1]) right--;
-
-                } else if (sum < 0) {
-                    left++;
-                } else {
-                    right--;
-                }
+        for (int i = 0; i < nums.length && nums[i] <= 0; ++i) {
+            if (i == 0 || nums[i - 1] != nums[i]) {
+                twoSumII(nums, i, res);
             }
         }
 
-        return result;
+        return res;
+    }
+
+    void twoSumII(int[] nums, int i, List<List<Integer>> res) {
+        int lo = i + 1, hi = nums.length - 1;
+        while (lo < hi) {
+            int sum = nums[i] + nums[lo] + nums[hi];
+            if (sum < 0) {
+                ++lo;
+            } else if (sum > 0) {
+                --hi;
+            } else {
+                res.add(Arrays.asList(nums[i], nums[lo++], nums[hi--]));
+
+                while (lo < hi && nums[lo] == nums[lo - 1]) {
+                    ++lo;
+                }
+                
+                while (lo < hi && nums[hi] == nums[hi + 1]) {
+                    --hi;
+                }
+            }
+        }
     }
 }
