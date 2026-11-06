@@ -199,6 +199,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RohitIrvisetty/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/RohitIrvisetty/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [1995-count-special-quadruplets](https://github.com/RohitIrvisetty/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2048-build-array-from-permutation](https://github.com/RohitIrvisetty/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2058-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RohitIrvisetty/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -326,6 +327,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1786-count-the-number-of-consistent-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-design-authentication-manager](https://github.com/RohitIrvisetty/leetcode/tree/master/1797-design-authentication-manager) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/RohitIrvisetty/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
+| [1995-count-special-quadruplets](https://github.com/RohitIrvisetty/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/RohitIrvisetty/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1669,6 +1671,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RohitIrvisetty/leetcode/tree/master/0204-count-primes) |
+| [1995-count-special-quadruplets](https://github.com/RohitIrvisetty/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/RohitIrvisetty/leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
