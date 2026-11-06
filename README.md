@@ -502,6 +502,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [1837-sum-of-digits-in-base-k](https://github.com/RohitIrvisetty/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/1922-count-good-numbers) |
+| [1925-count-square-sum-triples](https://github.com/RohitIrvisetty/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/RohitIrvisetty/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RohitIrvisetty/leetcode/tree/master/2050-count-good-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RohitIrvisetty/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -1671,6 +1672,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RohitIrvisetty/leetcode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/RohitIrvisetty/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/RohitIrvisetty/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/RohitIrvisetty/leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
