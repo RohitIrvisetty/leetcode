@@ -220,6 +220,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RohitIrvisetty/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2326-spiral-matrix-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2365-task-scheduler-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/2365-task-scheduler-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/RohitIrvisetty/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/RohitIrvisetty/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RohitIrvisetty/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -332,6 +333,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RohitIrvisetty/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2365-task-scheduler-ii](https://github.com/RohitIrvisetty/leetcode/tree/master/2365-task-scheduler-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/RohitIrvisetty/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RohitIrvisetty/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/RohitIrvisetty/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
@@ -408,6 +410,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohitIrvisetty/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2330-valid-palindrome-iv](https://github.com/RohitIrvisetty/leetcode/tree/master/2330-valid-palindrome-iv) |
+| [2367-number-of-arithmetic-triplets](https://github.com/RohitIrvisetty/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RohitIrvisetty/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RohitIrvisetty/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -1674,6 +1677,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [0204-count-primes](https://github.com/RohitIrvisetty/leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/RohitIrvisetty/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/RohitIrvisetty/leetcode/tree/master/1995-count-special-quadruplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/RohitIrvisetty/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/RohitIrvisetty/leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/RohitIrvisetty/leetcode/tree/master/2951-find-the-peaks) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RohitIrvisetty/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
