@@ -228,6 +228,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RohitIrvisetty/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohitIrvisetty/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -338,6 +339,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2404-most-frequent-even-element](https://github.com/RohitIrvisetty/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/RohitIrvisetty/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2514-count-anagrams](https://github.com/RohitIrvisetty/leetcode/tree/master/2514-count-anagrams) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RohitIrvisetty/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -731,6 +733,7 @@ A collection of leetcode problems and my solutions. This is not a complete list.
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RohitIrvisetty/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/RohitIrvisetty/leetcode/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RohitIrvisetty/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/RohitIrvisetty/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/RohitIrvisetty/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RohitIrvisetty/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
