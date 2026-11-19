@@ -1,4 +1,3 @@
-```java
 import java.util.HashMap;
 import java.util.Map;
 
@@ -151,8 +150,7 @@ class LFUCache {
         Node newNode = new Node(key, value);
 
         // New nodes have frequency 1.
-        keyToNode.put(key, newNode);
-
+        keyToNode.put(key, newNode);  
         // Get the frequency-1 list.
         if (!freqToList.containsKey(1)) {
             freqToList.put(1, new DoublyLinkedList());
@@ -197,4 +195,3 @@ class LFUCache {
         freqToList.get(newFreq).addFirst(node);
     }
 }
-```
